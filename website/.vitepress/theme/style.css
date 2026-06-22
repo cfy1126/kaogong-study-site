@@ -1,0 +1,134 @@
+:root {
+  --vp-c-brand-1: #315f9f;
+  --vp-c-brand-2: #3d7457;
+  --vp-c-brand-3: #6f8fbc;
+  --vp-c-bg: #fbfaf7;
+  --vp-c-bg-alt: #f4f1ea;
+  --vp-c-bg-soft: #f7f5ef;
+  --vp-c-border: #dedbd4;
+  --vp-c-divider: #dedbd4;
+  --vp-font-family-base: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
+    "Microsoft YaHei", sans-serif;
+}
+
+.VPDoc {
+  background: #fbfaf7;
+}
+
+.VPDoc .container {
+  max-width: 1180px;
+}
+
+.VPDoc .content {
+  max-width: 850px;
+}
+
+.vp-doc h1,
+.vp-doc h2,
+.vp-doc h3 {
+  letter-spacing: 0;
+}
+
+.vp-doc a {
+  text-decoration: none;
+}
+
+.home-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 14px;
+  margin: 22px 0;
+}
+
+.home-card,
+.study-panel {
+  border: 1px solid var(--vp-c-border);
+  border-radius: 8px;
+  background: #fff;
+  padding: 16px;
+}
+
+.home-card span {
+  display: block;
+  color: #6c6f75;
+  font-size: 13px;
+}
+
+.home-card strong {
+  display: block;
+  margin-top: 8px;
+  color: #232323;
+  font-size: 22px;
+  line-height: 1.25;
+  word-break: keep-all;
+}
+
+.study-panels {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 16px;
+  margin: 20px 0;
+}
+
+.study-panel h2 {
+  margin-top: 0;
+  border-top: 0;
+  padding-top: 0;
+  font-size: 18px;
+}
+
+.status-list {
+  display: grid;
+  gap: 10px;
+  padding: 0;
+  list-style: none;
+}
+
+.status-list li {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  border-bottom: 1px solid #ece8df;
+  padding-bottom: 8px;
+}
+
+.status-list em {
+  color: #315f9f;
+  font-style: normal;
+  white-space: nowrap;
+}
+
+.card-gallery {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+  margin: 18px 0;
+}
+
+.card-gallery figure {
+  margin: 0;
+  border: 1px solid var(--vp-c-border);
+  border-radius: 8px;
+  overflow: hidden;
+  background: #fff;
+}
+
+.card-gallery img {
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+}
+
+.card-gallery figcaption {
+  padding: 8px 10px;
+  color: #6c6f75;
+  font-size: 13px;
+}
+
+@media (max-width: 900px) {
+  .home-grid,
+  .study-panels,
+  .card-gallery {
+    grid-template-columns: 1fr;
+  }
+}

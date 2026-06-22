@@ -1,0 +1,830 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>考公学习网站设计稿对比</title>
+    <style>
+      :root {
+        --paper: #fbfaf7;
+        --panel: #ffffff;
+        --ink: #232323;
+        --muted: #6c6f75;
+        --line: #dedbd4;
+        --blue: #315f9f;
+        --green: #3d7457;
+        --orange: #b45f2a;
+        --red: #a54444;
+        --shadow: 0 18px 50px rgba(41, 38, 31, 0.1);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        background: var(--paper);
+        color: var(--ink);
+        font-family:
+          -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
+          "Microsoft YaHei", sans-serif;
+        line-height: 1.55;
+      }
+
+      img {
+        display: block;
+        max-width: 100%;
+      }
+
+      a {
+        color: inherit;
+        text-decoration: none;
+      }
+
+      .topbar {
+        position: sticky;
+        top: 0;
+        z-index: 10;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 18px;
+        padding: 14px clamp(18px, 4vw, 46px);
+        border-bottom: 1px solid var(--line);
+        background: rgba(251, 250, 247, 0.92);
+        backdrop-filter: blur(14px);
+      }
+
+      .brand {
+        min-width: 190px;
+      }
+
+      .brand strong {
+        display: block;
+        font-size: 18px;
+        letter-spacing: 0;
+      }
+
+      .brand span {
+        display: block;
+        margin-top: 2px;
+        color: var(--muted);
+        font-size: 13px;
+      }
+
+      .switcher {
+        display: flex;
+        gap: 8px;
+        padding: 4px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: #f1eee8;
+      }
+
+      .switcher a {
+        border-radius: 6px;
+        padding: 8px 12px;
+        color: var(--muted);
+        font-size: 14px;
+        white-space: nowrap;
+      }
+
+      .switcher a:hover {
+        background: #fff;
+        color: var(--ink);
+      }
+
+      .shell {
+        padding: 30px clamp(18px, 4vw, 46px) 58px;
+      }
+
+      .intro {
+        display: grid;
+        grid-template-columns: minmax(0, 1.3fr) minmax(280px, 0.7fr);
+        gap: 24px;
+        align-items: end;
+        margin-bottom: 28px;
+      }
+
+      .intro h1 {
+        max-width: 760px;
+        margin: 0;
+        font-size: clamp(30px, 5vw, 58px);
+        line-height: 1.08;
+        letter-spacing: 0;
+      }
+
+      .intro p {
+        max-width: 560px;
+        margin: 16px 0 0;
+        color: var(--muted);
+        font-size: 16px;
+      }
+
+      .decision {
+        border-left: 4px solid var(--orange);
+        padding-left: 18px;
+      }
+
+      .decision strong {
+        display: block;
+        margin-bottom: 8px;
+      }
+
+      .decision p {
+        margin: 0;
+        color: var(--muted);
+      }
+
+      .comparison {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 22px;
+        align-items: start;
+      }
+
+      .mock {
+        min-width: 0;
+        overflow: hidden;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--panel);
+        box-shadow: var(--shadow);
+      }
+
+      .mock-title {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 12px;
+        padding: 16px 18px;
+        border-bottom: 1px solid var(--line);
+        background: #fff;
+      }
+
+      .mock-title h2 {
+        margin: 0;
+        font-size: 18px;
+      }
+
+      .mock-title span {
+        color: var(--muted);
+        font-size: 13px;
+        white-space: nowrap;
+      }
+
+      .doc-layout {
+        display: grid;
+        grid-template-columns: 178px minmax(0, 1fr);
+        min-height: 760px;
+        background: #fffdf9;
+      }
+
+      .doc-nav {
+        border-right: 1px solid var(--line);
+        background: #f5f2ec;
+        padding: 18px 14px;
+      }
+
+      .doc-nav .nav-section {
+        margin-bottom: 20px;
+      }
+
+      .doc-nav b {
+        display: block;
+        margin-bottom: 8px;
+        font-size: 13px;
+      }
+
+      .doc-nav a {
+        display: block;
+        border-radius: 6px;
+        padding: 7px 8px;
+        color: #5f6268;
+        font-size: 13px;
+      }
+
+      .doc-nav a.active,
+      .doc-nav a:hover {
+        background: #fff;
+        color: var(--blue);
+      }
+
+      .doc-main {
+        min-width: 0;
+        padding: 26px;
+      }
+
+      .breadcrumb {
+        margin-bottom: 10px;
+        color: var(--muted);
+        font-size: 13px;
+      }
+
+      .doc-main h3,
+      .dash-main h3 {
+        margin: 0;
+        font-size: 28px;
+        line-height: 1.18;
+        letter-spacing: 0;
+      }
+
+      .doc-main .lead {
+        margin: 12px 0 20px;
+        color: var(--muted);
+      }
+
+      .note-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 12px;
+        margin: 18px 0;
+      }
+
+      .note {
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        padding: 14px;
+        background: #fff;
+      }
+
+      .note b {
+        display: block;
+        margin-bottom: 6px;
+        color: var(--blue);
+      }
+
+      .note p {
+        margin: 0;
+        color: var(--muted);
+        font-size: 14px;
+      }
+
+      .content-block {
+        margin-top: 20px;
+        border-top: 1px solid var(--line);
+        padding-top: 18px;
+      }
+
+      .content-block h4 {
+        margin: 0 0 10px;
+        font-size: 17px;
+      }
+
+      .formula {
+        border-radius: 8px;
+        background: #f4f7fb;
+        padding: 13px 14px;
+        color: #284f86;
+        font-family: "SFMono-Regular", Consolas, monospace;
+        font-size: 14px;
+        overflow-wrap: anywhere;
+      }
+
+      .plain-list {
+        margin: 10px 0 0;
+        padding-left: 18px;
+      }
+
+      .plain-list li {
+        margin: 7px 0;
+      }
+
+      .card-row {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 10px;
+        margin-top: 12px;
+      }
+
+      .card-row img {
+        aspect-ratio: 4 / 3;
+        width: 100%;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        object-fit: cover;
+        background: #f5f5f5;
+      }
+
+      .dash-layout {
+        min-height: 760px;
+        background: #f8f9f7;
+      }
+
+      .dash-head {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) auto;
+        gap: 18px;
+        align-items: start;
+        padding: 24px;
+        border-bottom: 1px solid var(--line);
+        background: #fff;
+      }
+
+      .dash-head p {
+        margin: 10px 0 0;
+        color: var(--muted);
+      }
+
+      .exam-box {
+        min-width: 138px;
+        border: 1px solid #d8d1c4;
+        border-radius: 8px;
+        padding: 12px;
+        text-align: center;
+        background: #fffaf2;
+      }
+
+      .exam-box strong {
+        display: block;
+        color: var(--orange);
+        font-size: 24px;
+      }
+
+      .exam-box span {
+        color: var(--muted);
+        font-size: 13px;
+      }
+
+      .dash-main {
+        padding: 18px;
+      }
+
+      .metrics {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+        gap: 10px;
+        margin-bottom: 14px;
+      }
+
+      .metric {
+        min-height: 88px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        padding: 12px;
+        background: #fff;
+      }
+
+      .metric span {
+        display: block;
+        color: var(--muted);
+        font-size: 12px;
+      }
+
+      .metric strong {
+        display: block;
+        margin-top: 8px;
+        font-size: 22px;
+      }
+
+      .metric small {
+        color: var(--muted);
+      }
+
+      .dash-grid {
+        display: grid;
+        grid-template-columns: minmax(0, 1.1fr) minmax(260px, 0.9fr);
+        gap: 14px;
+      }
+
+      .panel {
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: #fff;
+        padding: 16px;
+      }
+
+      .panel h4 {
+        margin: 0 0 12px;
+        font-size: 16px;
+      }
+
+      .progress-list {
+        display: grid;
+        gap: 12px;
+      }
+
+      .progress-item {
+        display: grid;
+        gap: 6px;
+      }
+
+      .progress-label {
+        display: flex;
+        justify-content: space-between;
+        gap: 12px;
+        color: var(--muted);
+        font-size: 13px;
+      }
+
+      .bar {
+        height: 9px;
+        overflow: hidden;
+        border-radius: 999px;
+        background: #eceae4;
+      }
+
+      .bar i {
+        display: block;
+        height: 100%;
+        border-radius: 999px;
+      }
+
+      .b-blue {
+        background: var(--blue);
+      }
+
+      .b-green {
+        background: var(--green);
+      }
+
+      .b-orange {
+        background: var(--orange);
+      }
+
+      .today-list {
+        display: grid;
+        gap: 10px;
+      }
+
+      .todo {
+        border-left: 4px solid var(--green);
+        border-radius: 6px;
+        padding: 9px 10px;
+        background: #f3f7f0;
+        font-size: 14px;
+      }
+
+      .timeline {
+        display: grid;
+        gap: 12px;
+      }
+
+      .timeline article {
+        border-left: 3px solid #d7c8af;
+        padding-left: 12px;
+      }
+
+      .timeline b {
+        display: block;
+      }
+
+      .timeline span {
+        color: var(--muted);
+        font-size: 13px;
+      }
+
+      .tag-row {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+      }
+
+      .tag {
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        padding: 5px 9px;
+        background: #fff;
+        color: var(--muted);
+        font-size: 12px;
+      }
+
+      .design-notes {
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 22px;
+        margin-top: 22px;
+      }
+
+      .design-notes section {
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        padding: 18px;
+        background: rgba(255, 255, 255, 0.78);
+      }
+
+      .design-notes h3 {
+        margin: 0 0 10px;
+        font-size: 18px;
+      }
+
+      .design-notes ul {
+        margin: 0;
+        padding-left: 18px;
+      }
+
+      .design-notes li {
+        margin: 7px 0;
+      }
+
+      @media (max-width: 1120px) {
+        .comparison,
+        .design-notes {
+          grid-template-columns: 1fr;
+        }
+      }
+
+      @media (max-width: 760px) {
+        .topbar,
+        .intro,
+        .dash-head,
+        .dash-grid {
+          grid-template-columns: 1fr;
+        }
+
+        .topbar {
+          align-items: stretch;
+        }
+
+        .switcher {
+          overflow-x: auto;
+        }
+
+        .doc-layout {
+          grid-template-columns: 1fr;
+        }
+
+        .doc-nav {
+          border-right: 0;
+          border-bottom: 1px solid var(--line);
+        }
+
+        .note-grid,
+        .metrics,
+        .card-row {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">
+        <strong>考公学习库</strong>
+        <span>公开网站设计稿对比</span>
+      </div>
+      <nav class="switcher" aria-label="设计稿快速跳转">
+        <a href="#doc">清爽文档站</a>
+        <a href="#dashboard">学习仪表盘</a>
+        <a href="#compare">怎么选</a>
+      </nav>
+    </header>
+
+    <main class="shell">
+      <section class="intro">
+        <div>
+          <h1>把学习记录、错题和知识卡片整理成一个公开学习网站</h1>
+          <p>
+            下面两个方案都使用你现有的学习内容。区别主要在阅读方式：一个像教材目录，适合系统复习；
+            一个像学习面板，适合每天打开看进度。
+          </p>
+        </div>
+        <aside class="decision">
+          <strong>当前建议</strong>
+          <p>
+            第一版可以先采用“清爽文档站”，同时在首页保留少量仪表盘模块。
+            这样上线快，后期也方便继续升级。
+          </p>
+        </aside>
+      </section>
+
+      <section class="comparison">
+        <article class="mock" id="doc">
+          <div class="mock-title">
+            <h2>方案 A：清爽文档站</h2>
+            <span>适合系统复习</span>
+          </div>
+
+          <div class="doc-layout">
+            <aside class="doc-nav">
+              <div class="nav-section">
+                <b>总览</b>
+                <a class="active" href="#">学习首页</a>
+                <a href="#">备考计划</a>
+                <a href="#">每日记录</a>
+              </div>
+              <div class="nav-section">
+                <b>行测</b>
+                <a href="#">资料分析</a>
+                <a href="#">判断推理</a>
+                <a href="#">言语理解</a>
+                <a href="#">数量关系</a>
+              </div>
+              <div class="nav-section">
+                <b>申论</b>
+                <a href="#">材料阅读</a>
+                <a href="#">归纳概括</a>
+                <a href="#">提出对策</a>
+              </div>
+              <div class="nav-section">
+                <b>复盘</b>
+                <a href="#">错题本</a>
+                <a href="#">知识卡片</a>
+              </div>
+            </aside>
+
+            <section class="doc-main">
+              <div class="breadcrumb">行测 / 资料分析 / 年均增长</div>
+              <h3>年均增长</h3>
+              <p class="lead">
+                先判断题目问的是“平均每年多多少”，还是“平均每年按百分之几增长”。
+                这一步看错，后面公式就会全错。
+              </p>
+
+              <div class="note-grid">
+                <div class="note">
+                  <b>学习状态</b>
+                  <p>已掌握。最近一次练习 21 题，错题 0 题。</p>
+                </div>
+                <div class="note">
+                  <b>下次提醒</b>
+                  <p>进入综合分析或速算与估算，同时补一节申论材料阅读。</p>
+                </div>
+              </div>
+
+              <div class="content-block">
+                <h4>核心公式</h4>
+                <div class="formula">
+                  年均增长量 = (末期量 - 初期量) ÷ 年份差<br />
+                  末期量 = 初期量 × (1 + 年均增长率)^年数
+                </div>
+              </div>
+
+              <div class="content-block">
+                <h4>常见问法</h4>
+                <ul class="plain-list">
+                  <li>问“年均增加多少”：用年均增长量。</li>
+                  <li>问“年均增长率”：用倍数关系估算。</li>
+                  <li>出现下降时，先把增长率写成负数。</li>
+                </ul>
+              </div>
+
+              <div class="content-block">
+                <h4>知识卡片</h4>
+                <div class="card-row">
+                  <img
+                    src="../.study/cards/2026-06-22-年均增长.png"
+                    alt="年均增长知识卡片"
+                  />
+                  <img
+                    src="../.study/cards/2026-06-22-混合增长.png"
+                    alt="混合增长知识卡片"
+                  />
+                  <img
+                    src="../.study/cards/2026-06-22-隔年增长.png"
+                    alt="隔年增长知识卡片"
+                  />
+                </div>
+              </div>
+            </section>
+          </div>
+        </article>
+
+        <article class="mock" id="dashboard">
+          <div class="mock-title">
+            <h2>方案 B：学习仪表盘</h2>
+            <span>适合每日打开</span>
+          </div>
+
+          <div class="dash-layout">
+            <header class="dash-head">
+              <div>
+                <h3>今日学习面板</h3>
+                <p>
+                  当前主攻资料分析、判断推理和言语理解；申论本周开始补材料阅读和归纳概括。
+                </p>
+              </div>
+              <div class="exam-box">
+                <strong>2026</strong>
+                <span>目标：11 月 30 日国考</span>
+              </div>
+            </header>
+
+            <section class="dash-main">
+              <div class="metrics">
+                <div class="metric">
+                  <span>资料分析</span>
+                  <strong>8/10</strong>
+                  <small>基础公式组已成型</small>
+                </div>
+                <div class="metric">
+                  <span>最近练习</span>
+                  <strong>21 题</strong>
+                  <small>年均增长正确率 100%</small>
+                </div>
+                <div class="metric">
+                  <span>错题重点</span>
+                  <strong>1 条</strong>
+                  <small>基期 / 现期数量级</small>
+                </div>
+                <div class="metric">
+                  <span>下次任务</span>
+                  <strong>申论</strong>
+                  <small>材料阅读 / 归纳概括</small>
+                </div>
+              </div>
+
+              <div class="dash-grid">
+                <section class="panel">
+                  <h4>模块进度</h4>
+                  <div class="progress-list">
+                    <div class="progress-item">
+                      <div class="progress-label">
+                        <span>资料分析</span>
+                        <span>已掌握 8 个考点</span>
+                      </div>
+                      <div class="bar"><i class="b-blue" style="width: 80%"></i></div>
+                    </div>
+                    <div class="progress-item">
+                      <div class="progress-label">
+                        <span>判断推理</span>
+                        <span>待启动</span>
+                      </div>
+                      <div class="bar"><i class="b-green" style="width: 8%"></i></div>
+                    </div>
+                    <div class="progress-item">
+                      <div class="progress-label">
+                        <span>申论</span>
+                        <span>本周补材料阅读</span>
+                      </div>
+                      <div class="bar"><i class="b-orange" style="width: 14%"></i></div>
+                    </div>
+                    <div class="progress-item">
+                      <div class="progress-label">
+                        <span>言语理解</span>
+                        <span>未系统开始</span>
+                      </div>
+                      <div class="bar"><i class="b-green" style="width: 5%"></i></div>
+                    </div>
+                  </div>
+                </section>
+
+                <section class="panel">
+                  <h4>今日建议</h4>
+                  <div class="today-list">
+                    <div class="todo">30 分钟：申论材料阅读，练找点和分条表达。</div>
+                    <div class="todo">70 分钟：资料分析综合分析或速算与估算。</div>
+                    <div class="todo">20 分钟：复盘基期 / 现期数量级错误。</div>
+                  </div>
+                </section>
+
+                <section class="panel">
+                  <h4>最近学习</h4>
+                  <div class="timeline">
+                    <article>
+                      <b>2026-06-22：年均增长</b>
+                      <span>掌握年均增长量和年均增长率的区别。</span>
+                    </article>
+                    <article>
+                      <b>2026-06-22：混合增长</b>
+                      <span>先判断范围，再看总体增长率靠近谁。</span>
+                    </article>
+                    <article>
+                      <b>2026-06-22：隔年增长</b>
+                      <span>熟悉正推、反推和直接求现期量。</span>
+                    </article>
+                  </div>
+                </section>
+
+                <section class="panel">
+                  <h4>易错标签</h4>
+                  <div class="tag-row">
+                    <span class="tag">数量级</span>
+                    <span class="tag">基期 / 现期</span>
+                    <span class="tag">问法判断</span>
+                    <span class="tag">增长率分母</span>
+                    <span class="tag">下降率写负数</span>
+                    <span class="tag">年均增长量</span>
+                  </div>
+                </section>
+              </div>
+            </section>
+          </div>
+        </article>
+      </section>
+
+      <section class="design-notes" id="compare">
+        <section>
+          <h3>方案 A 更适合什么</h3>
+          <ul>
+            <li>适合把知识点长期沉淀下来，像一本线上教材。</li>
+            <li>适合别人按目录阅读，也适合你考前快速查公式。</li>
+            <li>更新成本低，Markdown 文件可以直接变成网页。</li>
+            <li>缺点是进度感弱一点，首页需要额外设计。</li>
+          </ul>
+        </section>
+
+        <section>
+          <h3>方案 B 更适合什么</h3>
+          <ul>
+            <li>适合每天打开看“今天学什么、哪里薄弱”。</li>
+            <li>进度、错题、最近学习一眼能看到，比较有反馈感。</li>
+            <li>后期可以加筛选、统计图、错因分析。</li>
+            <li>缺点是开发量更大，第一版上线会慢一些。</li>
+          </ul>
+        </section>
+      </section>
+    </main>
+  </body>
+</html>
