@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1600" viewBox="0 0 1600 1600">
+  <rect width="1600" height="1600" fill="#F7F6F2"/>
+  <style>
+    .title { font: 700 82px "PingFang SC", "Heiti SC", sans-serif; fill: #23313A; }
+    .h { font: 700 44px "PingFang SC", "Heiti SC", sans-serif; }
+    .body { font: 400 36px "PingFang SC", "Heiti SC", sans-serif; fill: #23313A; }
+    .small { font: 400 30px "PingFang SC", "Heiti SC", sans-serif; fill: #5E6A71; }
+  </style>
+
+  <rect x="90" y="78" width="1420" height="167" rx="28" fill="#FFFFFF" stroke="#D7DDD9" stroke-width="2"/>
+  <text x="140" y="168" class="title">资料分析综合判断</text>
+  <text x="1120" y="165" class="small">手机复习卡</text>
+
+  <g transform="translate(105 295)">
+    <rect width="670" height="390" rx="24" fill="#FFFFFF" stroke="#D7DDD9" stroke-width="2"/>
+    <rect width="12" height="390" fill="#3D7EA6"/>
+    <text x="42" y="84" class="h" fill="#3D7EA6">1 先看问法</text>
+    <text x="42" y="170" class="body">正确 / 错误 / 能推出 / 不能推出</text>
+    <text x="42" y="232" class="body">先确定要找哪一种，</text>
+    <text x="42" y="294" class="body">再看选项。</text>
+  </g>
+
+  <g transform="translate(825 295)">
+    <rect width="670" height="390" rx="24" fill="#FFFFFF" stroke="#D7DDD9" stroke-width="2"/>
+    <rect width="12" height="390" fill="#4D8B6A"/>
+    <text x="42" y="84" class="h" fill="#4D8B6A">2 占比升降</text>
+    <text x="42" y="170" class="body">部分增长率 &gt; 整体：占比上升</text>
+    <text x="42" y="232" class="body">部分增长率 &lt; 整体：占比下降</text>
+  </g>
+
+  <g transform="translate(105 735)">
+    <rect width="670" height="390" rx="24" fill="#FFFFFF" stroke="#D7DDD9" stroke-width="2"/>
+    <rect width="12" height="390" fill="#3D7EA6"/>
+    <text x="42" y="84" class="h" fill="#3D7EA6">3 现期增长量</text>
+    <text x="42" y="170" class="body">给 2025 年现期量时：</text>
+    <text x="42" y="232" class="body">增长量 = 现期 × 增长率</text>
+    <text x="42" y="294" class="body">÷ (1 + 增长率)</text>
+  </g>
+
+  <g transform="translate(825 735)">
+    <rect width="670" height="390" rx="24" fill="#FFFFFF" stroke="#D7DDD9" stroke-width="2"/>
+    <rect width="12" height="390" fill="#4D8B6A"/>
+    <text x="42" y="84" class="h" fill="#4D8B6A">4 不能乱推</text>
+    <text x="42" y="170" class="body">只给增长率：</text>
+    <text x="42" y="232" class="body">不能判断金额大小，</text>
+    <text x="42" y="294" class="body">也不能判断增长量大小。</text>
+  </g>
+
+  <rect x="105" y="1215" width="1390" height="260" rx="28" fill="#EEF5F1" stroke="#C7D8CF" stroke-width="2"/>
+  <text x="150" y="1320" class="h" fill="#4D8B6A">下次练：超过 / 不超过、约为、最接近</text>
+  <text x="150" y="1388" class="body">做题顺序：先问法，再估范围，最后才精算。</text>
+  <text x="150" y="1445" class="small">作废题不记错题；严谨题才算训练结果。</text>
+  <text x="1160" y="1538" class="small">2026-08-05</text>
+</svg>

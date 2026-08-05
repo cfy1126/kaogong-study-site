@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+  <rect width="1200" height="1600" fill="#F7F8F5"/>
+  <text x="80" y="130" font-family="PingFang SC, Hiragino Sans GB, Arial Unicode MS, sans-serif" font-size="58" font-weight="700" fill="#1F2933">行测 真假推理进阶</text>
+  <text x="80" y="185" font-family="PingFang SC, Hiragino Sans GB, Arial Unicode MS, sans-serif" font-size="30" fill="#5F6B7A">2026-08-01 小测收尾卡</text>
+  <rect x="760" y="92" width="360" height="86" rx="32" fill="#E8F3EF" stroke="#B8D9CF" stroke-width="2"/>
+  <text x="794" y="148" font-family="PingFang SC, Hiragino Sans GB, Arial Unicode MS, sans-serif" font-size="38" font-weight="700" fill="#138A72">10 题全对</text>
+
+  <rect x="80" y="250" width="1040" height="260" rx="26" fill="#FFFFFF" stroke="#D8DED6" stroke-width="2"/>
+  <text x="118" y="325" font-family="PingFang SC, Hiragino Sans GB, Arial Unicode MS, sans-serif" font-size="42" font-weight="700" fill="#2563EB">入口</text>
+  <rect x="122" y="360" width="16" height="16" rx="5" fill="#2563EB"/>
+  <text x="158" y="382" font-family="PingFang SC, Hiragino Sans GB, Arial Unicode MS, sans-serif" font-size="34" fill="#1F2933">先找矛盾句</text>
+  <rect x="122" y="418" width="16" height="16" rx="5" fill="#2563EB"/>
+  <text x="158" y="440" font-family="PingFang SC, Hiragino Sans GB, Arial Unicode MS, sans-serif" font-size="34" fill="#1F2933">矛盾句一定一真一假</text>
+  <rect x="122" y="476" width="16" height="16" rx="5" fill="#2563EB"/>
+  <text x="158" y="498" font-family="PingFang SC, Hiragino Sans GB, Arial Unicode MS, sans-serif" font-size="34" fill="#1F2933">再看剩余句该真还是假</text>
+
+  <rect x="80" y="544" width="1040" height="260" rx="26" fill="#FFFFFF" stroke="#D8DED6" stroke-width="2"/>
+  <text x="118" y="619" font-family="PingFang SC, Hiragino Sans GB, Arial Unicode MS, sans-serif" font-size="42" font-weight="700" fill="#1F2933">数量词</text>
+  <rect x="122" y="654" width="16" height="16" rx="5" fill="#138A72"/>
+  <text x="158" y="676" font-family="PingFang SC, Hiragino Sans GB, Arial Unicode MS, sans-serif" font-size="34" fill="#1F2933">至多一人 = 0 或 1 人</text>
+  <rect x="122" y="712" width="16" height="16" rx="5" fill="#138A72"/>
+  <text x="158" y="734" font-family="PingFang SC, Hiragino Sans GB, Arial Unicode MS, sans-serif" font-size="34" fill="#1F2933">至少两人 = 2 人及以上</text>
+  <rect x="122" y="770" width="16" height="16" rx="5" fill="#138A72"/>
+  <text x="158" y="792" font-family="PingFang SC, Hiragino Sans GB, Arial Unicode MS, sans-serif" font-size="34" fill="#1F2933">恰好一人 = 只能 1 人</text>
+
+  <rect x="80" y="838" width="1040" height="285" rx="26" fill="#FFFFFF" stroke="#D8DED6" stroke-width="2"/>
+  <text x="118" y="913" font-family="PingFang SC, Hiragino Sans GB, Arial Unicode MS, sans-serif" font-size="42" font-weight="700" fill="#1F2933">易错提醒</text>
+  <rect x="122" y="948" width="16" height="16" rx="5" fill="#2563EB"/>
+  <text x="158" y="970" font-family="PingFang SC, Hiragino Sans GB, Arial Unicode MS, sans-serif" font-size="34" fill="#1F2933">不能看到部分成立就停</text>
+  <rect x="122" y="1006" width="16" height="16" rx="5" fill="#2563EB"/>
+  <text x="158" y="1028" font-family="PingFang SC, Hiragino Sans GB, Arial Unicode MS, sans-serif" font-size="34" fill="#1F2933">每个选项都要把全部句子数完</text>
+  <rect x="122" y="1064" width="16" height="16" rx="5" fill="#2563EB"/>
+  <text x="158" y="1086" font-family="PingFang SC, Hiragino Sans GB, Arial Unicode MS, sans-serif" font-size="34" fill="#1F2933">题目不严谨要作废，不算错题</text>
+
+  <rect x="80" y="1157" width="1040" height="285" rx="26" fill="#FFFFFF" stroke="#D8DED6" stroke-width="2"/>
+  <text x="118" y="1232" font-family="PingFang SC, Hiragino Sans GB, Arial Unicode MS, sans-serif" font-size="42" font-weight="700" fill="#1F2933">下次动作</text>
+  <rect x="122" y="1267" width="16" height="16" rx="5" fill="#2563EB"/>
+  <text x="158" y="1289" font-family="PingFang SC, Hiragino Sans GB, Arial Unicode MS, sans-serif" font-size="34" fill="#1F2933">回到资料分析综合分析</text>
+  <rect x="122" y="1325" width="16" height="16" rx="5" fill="#2563EB"/>
+  <text x="158" y="1347" font-family="PingFang SC, Hiragino Sans GB, Arial Unicode MS, sans-serif" font-size="34" fill="#1F2933">先看问法，再决定估算还是计算</text>
+  <rect x="122" y="1383" width="16" height="16" rx="5" fill="#2563EB"/>
+  <text x="158" y="1405" font-family="PingFang SC, Hiragino Sans GB, Arial Unicode MS, sans-serif" font-size="34" fill="#1F2933">行测出题前先核验唯一答案</text>
+
+  <line x1="80" y1="1490" x2="1120" y2="1490" stroke="#D8DED6" stroke-width="2"/>
+  <text x="80" y="1542" font-family="PingFang SC, Hiragino Sans GB, Arial Unicode MS, sans-serif" font-size="29" fill="#5F6B7A">今日结论：真假推理这一小点已掌握，继续保持“先核验、再作答”。</text>
+</svg>
