@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <rect width="1200" height="1200" fill="#F7F4ED"/>
+  <rect x="64" y="56" width="1072" height="112" rx="28" fill="#FFFFFF" stroke="#D9D2C3" stroke-width="2"/>
+  <text x="104" y="112" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="42" fill="#24312F">申论提出对策：先编号，再对应</text>
+  <text x="106" y="146" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="22" fill="#5D6A66">2026-08-10 复习卡片</text>
+
+  <rect x="64" y="210" width="488" height="400" rx="24" fill="#FFFFFF" stroke="#D9D2C3" stroke-width="2"/>
+  <text x="104" y="276" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="32" fill="#2F6F5E">核心流程</text>
+  <rect x="104" y="292" width="408" height="62" rx="14" fill="#EAF1EB"/>
+  <text x="128" y="331" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="26" fill="#24312F">1. 先数材料问题</text>
+  <rect x="104" y="378" width="408" height="62" rx="14" fill="#EAF1EB"/>
+  <text x="128" y="417" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="26" fill="#24312F">2. 每个问题写一个动作</text>
+  <rect x="104" y="464" width="408" height="62" rx="14" fill="#EAF1EB"/>
+  <text x="128" y="503" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="26" fill="#24312F">3. 检查身份权限和材料边界</text>
+
+  <rect x="596" y="210" width="540" height="400" rx="24" fill="#FFFFFF" stroke="#D9D2C3" stroke-width="2"/>
+  <text x="636" y="276" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="32" fill="#2F6F5E">常见转法</text>
+  <text x="636" y="326" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25" fill="#8A5A2B">不知道</text>
+  <text x="748" y="326" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25" fill="#5D6A66">→</text>
+  <text x="798" y="326" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25" fill="#24312F">宣传 / 公示 / 告知</text>
+  <text x="636" y="381" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25" fill="#8A5A2B">不会做</text>
+  <text x="748" y="381" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25" fill="#5D6A66">→</text>
+  <text x="798" y="381" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25" fill="#24312F">培训 / 示范 / 指导</text>
+  <text x="636" y="436" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25" fill="#8A5A2B">没人管</text>
+  <text x="748" y="436" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25" fill="#5D6A66">→</text>
+  <text x="798" y="436" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25" fill="#24312F">巡查 / 值守 / 回访</text>
+  <text x="636" y="491" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25" fill="#8A5A2B">不方便</text>
+  <text x="748" y="491" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25" fill="#5D6A66">→</text>
+  <text x="798" y="491" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25" fill="#24312F">调时间 / 设渠道 / 代办</text>
+  <text x="636" y="546" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25" fill="#8A5A2B">没收益</text>
+  <text x="748" y="546" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25" fill="#5D6A66">→</text>
+  <text x="798" y="546" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25" fill="#24312F">项目带动 / 收益分配</text>
+
+  <rect x="64" y="660" width="1072" height="138" rx="24" fill="#2F6F5E"/>
+  <text x="104" y="708" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30" fill="#FFFFFF">易错提醒：不要只写总表现，要拆成具体原因；别漏材料后半句。</text>
+  <text x="104" y="756" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24" fill="#EAF1EB">下次动作：问题 1/2/3 → 对策 1/2/3 → 逐条对照。</text>
+</svg>

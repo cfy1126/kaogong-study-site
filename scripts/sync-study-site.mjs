@@ -191,7 +191,7 @@ const sync = async () => {
   }
 
   await writeText(path.join(siteDir, "index.md"), await buildHomePage());
-  await copyMarkdownPage(path.join(studyDir, "plan-2026-11-30.md"), path.join(siteDir, "plan.md"), "备考计划");
+  await copyMarkdownPage(path.join(studyDir, "plan-2027-guokao.md"), path.join(siteDir, "plan.md"), "备考计划");
 
   await writeText(
     path.join(siteDir, "mindmaps", "index.md"),
