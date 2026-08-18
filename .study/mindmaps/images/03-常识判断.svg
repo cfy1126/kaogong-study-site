@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="3840" height="3840" viewBox="0 0 3840 3840">
+  <rect width="3840" height="3840" fill="#F7F5F0"/>
+  <circle cx="155" cy="155" r="94" fill="#E3E9F1" opacity="0.72"/>
+  <circle cx="3670" cy="215" r="52" fill="#E3E9F1" opacity="0.72"/>
+  <rect x="120" y="90" width="3600" height="360" rx="44" fill="#4E607A"/>
+  <rect x="168" y="142" width="154" height="78" rx="39" fill="#FFFFFF" fill-opacity="0.16"/>
+  <text x="245" y="196" text-anchor="middle" fill="#FFFFFF" font-size="42" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">03</text>
+  <text x="362" y="218" fill="#FFFFFF" font-size="96" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">常识判断</text>
+  <text x="362" y="310" fill="#FFFFFF" fill-opacity="0.86" font-size="42" font-weight="400" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">法律、经济、历史人文、科技、地理国情与社会生态</text>
+  <text x="362" y="386" fill="#FFFFFF" fill-opacity="0.62" font-size="32" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">国考公共科目 · 2026-08-18 整理</text>
+  <path d="M 1920 450 C 1920 492.32, 1004 492.32, 1004 542" fill="none" stroke="#8EA2BF" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 492.32, 2836 492.32, 2836 542" fill="none" stroke="#8EA2BF" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 749.9200000000001, 2836 749.9200000000001, 2836 1102" fill="none" stroke="#8EA2BF" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 780.28, 1004 780.28, 1004 1168" fill="none" stroke="#8EA2BF" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 977.16, 2836 977.16, 2836 1596" fill="none" stroke="#8EA2BF" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 1007.52, 1004 1007.52, 1004 1662" fill="none" stroke="#8EA2BF" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 1234.76, 1004 1234.76, 1004 2156" fill="none" stroke="#8EA2BF" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 1234.76, 2836 1234.76, 2836 2156" fill="none" stroke="#8EA2BF" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 1462, 1004 1462, 1004 2650" fill="none" stroke="#8EA2BF" stroke-width="5" stroke-opacity="0.34"/>
+
+  <g>
+    <rect x="128" y="554" width="1768" height="562" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="120" y="542" width="1768" height="562" rx="34" fill="#FFFFFF" stroke="#E3E9F1" stroke-width="3"/>
+    <path d="M 154 542 H 1854 Q 1888 542 1888 576 V 660 H 120 V 576 Q 120 542 154 542" fill="#4e607a"/>
+    <circle cx="194" cy="601" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="194" y="614" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">1</text>
+    <text x="256" y="620" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">法律常识</text>
+    <text x="174" y="738" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 宪法：国家制度、公民基本权利义务、国家机构</text>
+    <text x="174" y="804" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 行政法：行政许可、处罚、强制、复议、诉讼</text>
+    <text x="174" y="870" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 民法：民事主体、合同、物权、人格权、侵权责任、婚姻家庭</text>
+    <text x="174" y="936" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 刑法：犯罪构成、正当防卫、共同犯罪、刑罚</text>
+    <text x="174" y="1002" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 诉讼与程序：民事、刑事、行政诉讼基本规则</text>
+    <text x="174" y="1068" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 劳动、消费者保护、公务员及新制定或新修订法律</text>
+  </g>
+
+  <g>
+    <rect x="1960" y="554" width="1768" height="496" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="1952" y="542" width="1768" height="496" rx="34" fill="#FFFFFF" stroke="#E3E9F1" stroke-width="3"/>
+    <path d="M 1986 542 H 3686 Q 3720 542 3720 576 V 660 H 1952 V 576 Q 1952 542 1986 542" fill="#586a84"/>
+    <circle cx="2026" cy="601" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="2026" y="614" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">2</text>
+    <text x="2088" y="620" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">经济常识</text>
+    <text x="2006" y="738" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 市场机制：供求、价格、竞争、市场失灵</text>
+    <text x="2006" y="804" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 宏观调控：财政政策、货币政策、税收、利率、存款准备金率</text>
+    <text x="2006" y="870" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 经济指标：国内生产总值、居民消费价格、就业、国际收支</text>
+    <text x="2006" y="936" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 金融基础：银行、证券、保险、汇率、通货膨胀与通货紧缩</text>
+    <text x="2006" y="1002" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 新发展理念、高质量发展和产业政策中的经济知识</text>
+  </g>
+
+  <g>
+    <rect x="1960" y="1114" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="1952" y="1102" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#E3E9F1" stroke-width="3"/>
+    <path d="M 1986 1102 H 3686 Q 3720 1102 3720 1136 V 1220 H 1952 V 1136 Q 1952 1102 1986 1102" fill="#465872"/>
+    <circle cx="2026" cy="1161" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="2026" y="1174" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">3</text>
+    <text x="2088" y="1180" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">历史常识</text>
+    <text x="2006" y="1298" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 中国古代史：制度、事件、人物、科技与中外交流</text>
+    <text x="2006" y="1364" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 中国近现代史：重要战争、革命、建设与改革历程</text>
+    <text x="2006" y="1430" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 中共党史、新中国史、改革开放史、社会主义发展史</text>
+    <text x="2006" y="1496" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 世界史：重要文明、革命、战争和国际关系</text>
+  </g>
+
+  <g>
+    <rect x="128" y="1180" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="120" y="1168" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#E3E9F1" stroke-width="3"/>
+    <path d="M 154 1168 H 1854 Q 1888 1168 1888 1202 V 1286 H 120 V 1202 Q 120 1168 154 1168" fill="#60728c"/>
+    <circle cx="194" cy="1227" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="194" y="1240" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">4</text>
+    <text x="256" y="1246" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">人文文化</text>
+    <text x="174" y="1364" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 文学作品、作家、名句、典故和体裁</text>
+    <text x="174" y="1430" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 思想流派、传统节日、礼仪制度、非物质文化遗产</text>
+    <text x="174" y="1496" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 书法绘画、音乐戏曲、建筑、文物考古</text>
+    <text x="174" y="1562" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 世界文学艺术和文化遗产</text>
+  </g>
+
+  <g>
+    <rect x="1960" y="1608" width="1768" height="496" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="1952" y="1596" width="1768" height="496" rx="34" fill="#FFFFFF" stroke="#E3E9F1" stroke-width="3"/>
+    <path d="M 1986 1596 H 3686 Q 3720 1596 3720 1630 V 1714 H 1952 V 1630 Q 1952 1596 1986 1596" fill="#3f516b"/>
+    <circle cx="2026" cy="1655" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="2026" y="1668" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">5</text>
+    <text x="2088" y="1674" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">科技常识</text>
+    <text x="2006" y="1792" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 物理：力热声光电、能源、材料</text>
+    <text x="2006" y="1858" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 化学：物质性质、化学反应、生产生活应用</text>
+    <text x="2006" y="1924" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 生物与医学：遗传、生态、人体健康、常见疾病和急救</text>
+    <text x="2006" y="1990" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 信息技术：计算机、通信、人工智能、大数据、网络安全</text>
+    <text x="2006" y="2056" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 航空航天、深海探测、重大科学装置和前沿科技</text>
+  </g>
+
+  <g>
+    <rect x="128" y="1674" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="120" y="1662" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#E3E9F1" stroke-width="3"/>
+    <path d="M 154 1662 H 1854 Q 1888 1662 1888 1696 V 1780 H 120 V 1696 Q 120 1662 154 1662" fill="#546680"/>
+    <circle cx="194" cy="1721" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="194" y="1734" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">6</text>
+    <text x="256" y="1740" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">地理国情</text>
+    <text x="174" y="1858" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 中国疆域、地形、气候、河湖、资源和行政区划</text>
+    <text x="174" y="1924" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 人口、民族、农业、工业和区域发展</text>
+    <text x="174" y="1990" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 世界地理、经纬度、时区、洋流和自然灾害</text>
+    <text x="174" y="2056" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 地图判读、地理现象与生产生活</text>
+  </g>
+
+  <g>
+    <rect x="128" y="2168" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="120" y="2156" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#E3E9F1" stroke-width="3"/>
+    <path d="M 154 2156 H 1854 Q 1888 2156 1888 2190 V 2274 H 120 V 2190 Q 120 2156 154 2156" fill="#4e607a"/>
+    <circle cx="194" cy="2215" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="194" y="2228" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">7</text>
+    <text x="256" y="2234" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">社会与生态</text>
+    <text x="174" y="2352" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 社会保障、人口与就业、教育医疗、基层治理</text>
+    <text x="174" y="2418" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 公共管理、公文与应急处置基础</text>
+    <text x="174" y="2484" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 生态系统、生物多样性、污染防治、碳达峰碳中和</text>
+    <text x="174" y="2550" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 防灾减灾、安全生产和公共卫生</text>
+  </g>
+
+  <g>
+    <rect x="1960" y="2168" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="1952" y="2156" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#E3E9F1" stroke-width="3"/>
+    <path d="M 1986 2156 H 3686 Q 3720 2156 3720 2190 V 2274 H 1952 V 2190 Q 1952 2156 1986 2156" fill="#586a84"/>
+    <circle cx="2026" cy="2215" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="2026" y="2228" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">8</text>
+    <text x="2088" y="2234" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">时事与成就</text>
+    <text x="2006" y="2352" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 国内重大政策、工程、科技和文化成就</text>
+    <text x="2006" y="2418" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 国际组织、重要国际会议和国际合作</text>
+    <text x="2006" y="2484" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 重要周年纪念和重大赛事</text>
+    <text x="2006" y="2550" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 与政治理论重复时，优先按官方最新表述掌握</text>
+  </g>
+
+  <g>
+    <rect x="128" y="2662" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="120" y="2650" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#E3E9F1" stroke-width="3"/>
+    <path d="M 154 2650 H 1854 Q 1888 2650 1888 2684 V 2768 H 120 V 2684 Q 120 2650 154 2650" fill="#465872"/>
+    <circle cx="194" cy="2709" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="194" y="2722" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">9</text>
+    <text x="256" y="2728" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">常见考法</text>
+    <text x="174" y="2846" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 诗句、生活现象与科学知识结合</text>
+    <text x="174" y="2912" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 时间、人物、事件和地点对应</text>
+    <text x="174" y="2978" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 法律情境判断与新法变化</text>
+    <text x="174" y="3044" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 多学科交叉，利用排除法判断</text>
+  </g>
+  <text x="120" y="3764" fill="#64716E" font-size="32" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">依据：2026 年度国考公共科目笔试考试大纲 + 2022—2026 年公开真题题型分析</text>
+  <text x="3080" y="3764" fill="#64716E" font-size="32" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">2027 年考试以最新官方大纲为准</text>
+</svg>

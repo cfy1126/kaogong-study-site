@@ -50,4 +50,10 @@
 <figure><img src="/cards/2026-08-14-言语理解限时复测.png" alt="言语理解限时复测"><figcaption>言语理解限时复测</figcaption></figure>
 <figure><img src="/cards/2026-08-15-真假推理.png" alt="真假推理"><figcaption>真假推理</figcaption></figure>
 <figure><img src="/cards/2026-08-15-周末言语复盘.png" alt="周末言语复盘"><figcaption>周末言语复盘</figcaption></figure>
+<figure><img src="/cards/2026-08-18-高质量发展.png" alt="高质量发展"><figcaption>高质量发展</figcaption></figure>
+<figure><img src="/cards/2026-08-18-逻辑填空.png" alt="逻辑填空"><figcaption>逻辑填空</figcaption></figure>
+<figure><img src="/cards/2026-08-18-新发展理念.png" alt="新发展理念"><figcaption>新发展理念</figcaption></figure>
+<figure><img src="/cards/2026-08-18-新时代思想核心词.png" alt="新时代思想核心词"><figcaption>新时代思想核心词</figcaption></figure>
+<figure><img src="/cards/2026-08-18-言语限时复测.png" alt="言语限时复测"><figcaption>言语限时复测</figcaption></figure>
+<figure><img src="/cards/2026-08-18-中国式现代化.png" alt="中国式现代化"><figcaption>中国式现代化</figcaption></figure>
 </div>

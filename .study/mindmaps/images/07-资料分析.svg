@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="3840" height="3840" viewBox="0 0 3840 3840">
+  <rect width="3840" height="3840" fill="#F7F5F0"/>
+  <circle cx="155" cy="155" r="94" fill="#E0EAF0" opacity="0.72"/>
+  <circle cx="3670" cy="215" r="52" fill="#E0EAF0" opacity="0.72"/>
+  <rect x="120" y="90" width="3600" height="360" rx="44" fill="#4B6575"/>
+  <rect x="168" y="142" width="154" height="78" rx="39" fill="#FFFFFF" fill-opacity="0.16"/>
+  <text x="245" y="196" text-anchor="middle" fill="#FFFFFF" font-size="42" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">07</text>
+  <text x="362" y="218" fill="#FFFFFF" font-size="96" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">资料分析</text>
+  <text x="362" y="310" fill="#FFFFFF" fill-opacity="0.86" font-size="42" font-weight="400" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">核心概念、公式、比较方法、速算与陷阱</text>
+  <text x="362" y="386" fill="#FFFFFF" fill-opacity="0.62" font-size="32" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">国考公共科目 · 2026-08-18 整理</text>
+  <path d="M 1920 450 C 1920 492.32, 1004 492.32, 1004 542" fill="none" stroke="#89A9B8" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 492.32, 2836 492.32, 2836 542" fill="none" stroke="#89A9B8" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 719.56, 1004 719.56, 1004 1036" fill="none" stroke="#89A9B8" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 719.56, 2836 719.56, 2836 1036" fill="none" stroke="#89A9B8" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 946.8, 2836 946.8, 2836 1530" fill="none" stroke="#89A9B8" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 977.16, 1004 977.16, 1004 1596" fill="none" stroke="#89A9B8" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 1204.4, 1004 1204.4, 1004 2090" fill="none" stroke="#89A9B8" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 1204.4, 2836 1204.4, 2836 2090" fill="none" stroke="#89A9B8" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 1431.6399999999999, 1004 1431.6399999999999, 1004 2584" fill="none" stroke="#89A9B8" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 1431.6399999999999, 2836 1431.6399999999999, 2836 2584" fill="none" stroke="#89A9B8" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 1658.88, 1004 1658.88, 1004 3078" fill="none" stroke="#89A9B8" stroke-width="5" stroke-opacity="0.34"/>
+
+  <g>
+    <rect x="128" y="554" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="120" y="542" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#E0EAF0" stroke-width="3"/>
+    <path d="M 154 542 H 1854 Q 1888 542 1888 576 V 660 H 120 V 576 Q 120 542 154 542" fill="#4b6575"/>
+    <circle cx="194" cy="601" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="194" y="614" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">1</text>
+    <text x="256" y="620" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">材料阅读</text>
+    <text x="174" y="738" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 文字资料、统计表、柱状图、折线图、饼图和综合资料</text>
+    <text x="174" y="804" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 先看时间、地区、指标、单位和注释</text>
+    <text x="174" y="870" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 区分同比、环比、百分数和百分点</text>
+    <text x="174" y="936" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 圈出题目主体，防止找错年份或口径</text>
+  </g>
+
+  <g>
+    <rect x="1960" y="554" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="1952" y="542" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#E0EAF0" stroke-width="3"/>
+    <path d="M 1986 542 H 3686 Q 3720 542 3720 576 V 660 H 1952 V 576 Q 1952 542 1986 542" fill="#556f7f"/>
+    <circle cx="2026" cy="601" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="2026" y="614" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">2</text>
+    <text x="2088" y="620" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">基期与现期</text>
+    <text x="2006" y="738" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 现期量等于基期量乘以一加增长率</text>
+    <text x="2006" y="804" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 基期量等于现期量除以一加增长率</text>
+    <text x="2006" y="870" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 现期差、基期差和基期和</text>
+    <text x="2006" y="936" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 间隔基期与多期比较</text>
+  </g>
+
+  <g>
+    <rect x="128" y="1048" width="1768" height="496" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="120" y="1036" width="1768" height="496" rx="34" fill="#FFFFFF" stroke="#E0EAF0" stroke-width="3"/>
+    <path d="M 154 1036 H 1854 Q 1888 1036 1888 1070 V 1154 H 120 V 1070 Q 120 1036 154 1036" fill="#435d6d"/>
+    <circle cx="194" cy="1095" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="194" y="1108" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">3</text>
+    <text x="256" y="1114" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">增长率</text>
+    <text x="174" y="1232" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 增长率等于增长量除以基期量</text>
+    <text x="174" y="1298" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 增长率比较、增长最快与增长幅度</text>
+    <text x="174" y="1364" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 间隔增长率：r1 加 r2 加 r1 乘 r2</text>
+    <text x="174" y="1430" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 年均增长率、混合增长率</text>
+    <text x="174" y="1496" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 降幅、增幅和百分点变化</text>
+  </g>
+
+  <g>
+    <rect x="1960" y="1048" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="1952" y="1036" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#E0EAF0" stroke-width="3"/>
+    <path d="M 1986 1036 H 3686 Q 3720 1036 3720 1070 V 1154 H 1952 V 1070 Q 1952 1036 1986 1036" fill="#5d7787"/>
+    <circle cx="2026" cy="1095" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="2026" y="1108" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">4</text>
+    <text x="2088" y="1114" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">增长量</text>
+    <text x="2006" y="1232" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 增长量等于现期量减基期量</text>
+    <text x="2006" y="1298" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 增长量等于现期量乘增长率再除以一加增长率</text>
+    <text x="2006" y="1364" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 已知基期量时，用基期量乘增长率</text>
+    <text x="2006" y="1430" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 年均增长量和增长量比较</text>
+  </g>
+
+  <g>
+    <rect x="1960" y="1542" width="1768" height="496" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="1952" y="1530" width="1768" height="496" rx="34" fill="#FFFFFF" stroke="#E0EAF0" stroke-width="3"/>
+    <path d="M 1986 1530 H 3686 Q 3720 1530 3720 1564 V 1648 H 1952 V 1564 Q 1952 1530 1986 1530" fill="#3c5666"/>
+    <circle cx="2026" cy="1589" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="2026" y="1602" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">5</text>
+    <text x="2088" y="1608" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">比重</text>
+    <text x="2006" y="1726" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 比重等于部分量除以整体量</text>
+    <text x="2006" y="1792" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 部分量等于整体量乘比重</text>
+    <text x="2006" y="1858" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 基期比重与现期比重</text>
+    <text x="2006" y="1924" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 两期比重比较：看部分增长率与整体增长率</text>
+    <text x="2006" y="1990" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 比重变化量通常用百分点表示</text>
+  </g>
+
+  <g>
+    <rect x="128" y="1608" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="120" y="1596" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#E0EAF0" stroke-width="3"/>
+    <path d="M 154 1596 H 1854 Q 1888 1596 1888 1630 V 1714 H 120 V 1630 Q 120 1596 154 1596" fill="#516b7b"/>
+    <circle cx="194" cy="1655" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="194" y="1668" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">6</text>
+    <text x="256" y="1674" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">平均数</text>
+    <text x="174" y="1792" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 平均数等于总量除以份数</text>
+    <text x="174" y="1858" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 基期平均数与现期平均数</text>
+    <text x="174" y="1924" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 两期平均数比较</text>
+    <text x="174" y="1990" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 平均数增长率与总量、份数增长率</text>
+  </g>
+
+  <g>
+    <rect x="128" y="2102" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="120" y="2090" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#E0EAF0" stroke-width="3"/>
+    <path d="M 154 2090 H 1854 Q 1888 2090 1888 2124 V 2208 H 120 V 2124 Q 120 2090 154 2090" fill="#4b6575"/>
+    <circle cx="194" cy="2149" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="194" y="2162" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">7</text>
+    <text x="256" y="2168" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">倍数与其他指标</text>
+    <text x="174" y="2286" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 倍数等于比较量除以标准量</text>
+    <text x="174" y="2352" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 多几倍、是几倍、增长几倍</text>
+    <text x="174" y="2418" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 每单位量、人均量、密度和强度</text>
+    <text x="174" y="2484" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 拉动增长、贡献率、指数和恩格尔系数等特殊指标</text>
+  </g>
+
+  <g>
+    <rect x="1960" y="2102" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="1952" y="2090" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#E0EAF0" stroke-width="3"/>
+    <path d="M 1986 2090 H 3686 Q 3720 2090 3720 2124 V 2208 H 1952 V 2124 Q 1952 2090 1986 2090" fill="#556f7f"/>
+    <circle cx="2026" cy="2149" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="2026" y="2162" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">8</text>
+    <text x="2088" y="2168" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">比较排序</text>
+    <text x="2006" y="2286" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 量级相同先估算，差距小时再精算</text>
+    <text x="2006" y="2352" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 分数比较用直除、交叉相乘或差分</text>
+    <text x="2006" y="2418" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 增长量比较兼顾现期量和增长率</text>
+    <text x="2006" y="2484" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 排名、占比、趋势和范围判断</text>
+  </g>
+
+  <g>
+    <rect x="128" y="2596" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="120" y="2584" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#E0EAF0" stroke-width="3"/>
+    <path d="M 154 2584 H 1854 Q 1888 2584 1888 2618 V 2702 H 120 V 2618 Q 120 2584 154 2584" fill="#435d6d"/>
+    <circle cx="194" cy="2643" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="194" y="2656" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">9</text>
+    <text x="256" y="2662" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">速算估算</text>
+    <text x="174" y="2780" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 截位直除、首数法、有效数字</text>
+    <text x="174" y="2846" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 分数性质、百化分、放缩</text>
+    <text x="174" y="2912" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 乘除拆分、近似计算、误差方向</text>
+    <text x="174" y="2978" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 选项差距决定计算精度</text>
+  </g>
+
+  <g>
+    <rect x="1960" y="2596" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="1952" y="2584" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#E0EAF0" stroke-width="3"/>
+    <path d="M 1986 2584 H 3686 Q 3720 2584 3720 2618 V 2702 H 1952 V 2618 Q 1952 2584 1986 2584" fill="#5d7787"/>
+    <circle cx="2026" cy="2643" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="2026" y="2656" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">10</text>
+    <text x="2088" y="2662" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">综合分析</text>
+    <text x="2006" y="2780" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 正确或错误项逐项判断</text>
+    <text x="2006" y="2846" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 先做定位快、计算少的选项</text>
+    <text x="2006" y="2912" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 综合使用基期、增长、比重、平均数和倍数</text>
+    <text x="2006" y="2978" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 警惕绝对量与相对量混淆</text>
+  </g>
+
+  <g>
+    <rect x="128" y="3090" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="120" y="3078" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#E0EAF0" stroke-width="3"/>
+    <path d="M 154 3078 H 1854 Q 1888 3078 1888 3112 V 3196 H 120 V 3112 Q 120 3078 154 3078" fill="#3c5666"/>
+    <circle cx="194" cy="3137" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="194" y="3150" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">11</text>
+    <text x="256" y="3156" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">高频陷阱</text>
+    <text x="174" y="3274" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 问增长率却算增长量，问基期却用现期</text>
+    <text x="174" y="3340" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 同比与环比混淆，百分数与百分点混淆</text>
+    <text x="174" y="3406" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 部分与整体、单位和统计口径不一致</text>
+    <text x="174" y="3472" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 约为、超过、不超过和最接近的问法差异</text>
+  </g>
+  <text x="120" y="3764" fill="#64716E" font-size="32" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">依据：2026 年度国考公共科目笔试考试大纲 + 2022—2026 年公开真题题型分析</text>
+  <text x="3080" y="3764" fill="#64716E" font-size="32" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">2027 年考试以最新官方大纲为准</text>
+</svg>

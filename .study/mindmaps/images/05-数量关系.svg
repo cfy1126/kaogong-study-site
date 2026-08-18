@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="3840" height="3840" viewBox="0 0 3840 3840">
+  <rect width="3840" height="3840" fill="#F7F5F0"/>
+  <circle cx="155" cy="155" r="94" fill="#F2E9DA" opacity="0.72"/>
+  <circle cx="3670" cy="215" r="52" fill="#F2E9DA" opacity="0.72"/>
+  <rect x="120" y="90" width="3600" height="360" rx="44" fill="#80613F"/>
+  <rect x="168" y="142" width="154" height="78" rx="39" fill="#FFFFFF" fill-opacity="0.16"/>
+  <text x="245" y="196" text-anchor="middle" fill="#FFFFFF" font-size="42" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">05</text>
+  <text x="362" y="218" fill="#FFFFFF" font-size="96" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">数量关系</text>
+  <text x="362" y="310" fill="#FFFFFF" fill-opacity="0.86" font-size="42" font-weight="400" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">基础工具、十大常见模型与数字推理</text>
+  <text x="362" y="386" fill="#FFFFFF" fill-opacity="0.62" font-size="32" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">国考公共科目 · 2026-08-18 整理</text>
+  <path d="M 1920 450 C 1920 492.32, 1004 492.32, 1004 542" fill="none" stroke="#C0A275" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 492.32, 2836 492.32, 2836 542" fill="none" stroke="#C0A275" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 719.56, 1004 719.56, 1004 1036" fill="none" stroke="#C0A275" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 719.56, 2836 719.56, 2836 1036" fill="none" stroke="#C0A275" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 946.8, 1004 946.8, 1004 1530" fill="none" stroke="#C0A275" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 946.8, 2836 946.8, 2836 1530" fill="none" stroke="#C0A275" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 1174.04, 1004 1174.04, 1004 2024" fill="none" stroke="#C0A275" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 1174.04, 2836 1174.04, 2836 2024" fill="none" stroke="#C0A275" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 1401.2800000000002, 1004 1401.2800000000002, 1004 2518" fill="none" stroke="#C0A275" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 1401.2800000000002, 2836 1401.2800000000002, 2836 2518" fill="none" stroke="#C0A275" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 1628.52, 1004 1628.52, 1004 3012" fill="none" stroke="#C0A275" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 1628.52, 2836 1628.52, 2836 3012" fill="none" stroke="#C0A275" stroke-width="5" stroke-opacity="0.34"/>
+
+  <g>
+    <rect x="128" y="554" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="120" y="542" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#F2E9DA" stroke-width="3"/>
+    <path d="M 154 542 H 1854 Q 1888 542 1888 576 V 660 H 120 V 576 Q 120 542 154 542" fill="#80613f"/>
+    <circle cx="194" cy="601" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="194" y="614" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">1</text>
+    <text x="256" y="620" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">基础工具</text>
+    <text x="174" y="738" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 方程法、比例法、赋值法、代入排除</text>
+    <text x="174" y="804" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 整除特性、奇偶性、余数和尾数</text>
+    <text x="174" y="870" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 枚举、列表、画图、分类讨论</text>
+    <text x="174" y="936" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 最值思想、边界思想、反向验证</text>
+  </g>
+
+  <g>
+    <rect x="1960" y="554" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="1952" y="542" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#F2E9DA" stroke-width="3"/>
+    <path d="M 1986 542 H 3686 Q 3720 542 3720 576 V 660 H 1952 V 576 Q 1952 542 1986 542" fill="#8a6b49"/>
+    <circle cx="2026" cy="601" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="2026" y="614" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">2</text>
+    <text x="2088" y="620" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">工程问题</text>
+    <text x="2006" y="738" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 工作总量等于效率乘时间</text>
+    <text x="2006" y="804" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 合作、轮流、休息、效率变化</text>
+    <text x="2006" y="870" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 给定时间型优先设总量为公倍数</text>
+    <text x="2006" y="936" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 牛吃草等动态工程模型</text>
+  </g>
+
+  <g>
+    <rect x="128" y="1048" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="120" y="1036" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#F2E9DA" stroke-width="3"/>
+    <path d="M 154 1036 H 1854 Q 1888 1036 1888 1070 V 1154 H 120 V 1070 Q 120 1036 154 1036" fill="#785937"/>
+    <circle cx="194" cy="1095" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="194" y="1108" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">3</text>
+    <text x="256" y="1114" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">行程问题</text>
+    <text x="174" y="1232" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 路程等于速度乘时间</text>
+    <text x="174" y="1298" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 相遇、追及、往返、流水行船</text>
+    <text x="174" y="1364" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 比例行程、分段行程、火车过桥</text>
+    <text x="174" y="1430" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 环形运动和多次相遇</text>
+  </g>
+
+  <g>
+    <rect x="1960" y="1048" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="1952" y="1036" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#F2E9DA" stroke-width="3"/>
+    <path d="M 1986 1036 H 3686 Q 3720 1036 3720 1070 V 1154 H 1952 V 1070 Q 1952 1036 1986 1036" fill="#927351"/>
+    <circle cx="2026" cy="1095" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="2026" y="1108" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">4</text>
+    <text x="2088" y="1114" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">经济利润</text>
+    <text x="2006" y="1232" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 成本、售价、利润、利润率</text>
+    <text x="2006" y="1298" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 折扣、满减、分段计费</text>
+    <text x="2006" y="1364" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 混合销售、盈亏平衡</text>
+    <text x="2006" y="1430" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 浓度、溶液和配比问题</text>
+  </g>
+
+  <g>
+    <rect x="128" y="1542" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="120" y="1530" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#F2E9DA" stroke-width="3"/>
+    <path d="M 154 1530 H 1854 Q 1888 1530 1888 1564 V 1648 H 120 V 1564 Q 120 1530 154 1530" fill="#715230"/>
+    <circle cx="194" cy="1589" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="194" y="1602" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">5</text>
+    <text x="256" y="1608" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">比例与方程</text>
+    <text x="174" y="1726" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 和差倍比、比例分配</text>
+    <text x="174" y="1792" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 鸡兔同笼、盈亏、年龄</text>
+    <text x="174" y="1858" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 不定方程与整数解</text>
+    <text x="174" y="1924" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 多人多量关系和列表求解</text>
+  </g>
+
+  <g>
+    <rect x="1960" y="1542" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="1952" y="1530" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#F2E9DA" stroke-width="3"/>
+    <path d="M 1986 1530 H 3686 Q 3720 1530 3720 1564 V 1648 H 1952 V 1564 Q 1952 1530 1986 1530" fill="#866745"/>
+    <circle cx="2026" cy="1589" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="2026" y="1602" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">6</text>
+    <text x="2088" y="1608" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">排列组合</text>
+    <text x="2006" y="1726" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 分类相加、分步相乘</text>
+    <text x="2006" y="1792" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 排列、组合、捆绑、插空</text>
+    <text x="2006" y="1858" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 相邻、不相邻、至少至多</text>
+    <text x="2006" y="1924" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 错位排列和圆桌排列基础</text>
+  </g>
+
+  <g>
+    <rect x="128" y="2036" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="120" y="2024" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#F2E9DA" stroke-width="3"/>
+    <path d="M 154 2024 H 1854 Q 1888 2024 1888 2058 V 2142 H 120 V 2058 Q 120 2024 154 2024" fill="#80613f"/>
+    <circle cx="194" cy="2083" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="194" y="2096" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">7</text>
+    <text x="256" y="2102" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">概率问题</text>
+    <text x="174" y="2220" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 古典概率等于满足条件数除以总情况数</text>
+    <text x="174" y="2286" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 对立事件、独立事件、条件限制</text>
+    <text x="174" y="2352" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 抽取、分组、比赛和随机安排</text>
+    <text x="174" y="2418" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 与排列组合联合计算</text>
+  </g>
+
+  <g>
+    <rect x="1960" y="2036" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="1952" y="2024" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#F2E9DA" stroke-width="3"/>
+    <path d="M 1986 2024 H 3686 Q 3720 2024 3720 2058 V 2142 H 1952 V 2058 Q 1952 2024 1986 2024" fill="#8a6b49"/>
+    <circle cx="2026" cy="2083" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="2026" y="2096" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">8</text>
+    <text x="2088" y="2102" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">容斥与集合</text>
+    <text x="2006" y="2220" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 两集合、三集合容斥</text>
+    <text x="2006" y="2286" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 至少一个、都不满足、重复计算</text>
+    <text x="2006" y="2352" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 文氏图、表格法和极值范围</text>
+    <text x="2006" y="2418" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 集合推理与人数统计</text>
+  </g>
+
+  <g>
+    <rect x="128" y="2530" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="120" y="2518" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#F2E9DA" stroke-width="3"/>
+    <path d="M 154 2518 H 1854 Q 1888 2518 1888 2552 V 2636 H 120 V 2552 Q 120 2518 154 2518" fill="#785937"/>
+    <circle cx="194" cy="2577" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="194" y="2590" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">9</text>
+    <text x="256" y="2596" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">几何问题</text>
+    <text x="174" y="2714" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 平面图形周长、面积、相似和勾股</text>
+    <text x="174" y="2780" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 圆、扇形、阴影面积</text>
+    <text x="174" y="2846" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 立体图形表面积、体积和切割</text>
+    <text x="174" y="2912" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 几何最值、路径和比例缩放</text>
+  </g>
+
+  <g>
+    <rect x="1960" y="2530" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="1952" y="2518" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#F2E9DA" stroke-width="3"/>
+    <path d="M 1986 2518 H 3686 Q 3720 2518 3720 2552 V 2636 H 1952 V 2552 Q 1952 2518 1986 2518" fill="#927351"/>
+    <circle cx="2026" cy="2577" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="2026" y="2590" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">10</text>
+    <text x="2088" y="2596" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">计数与周期</text>
+    <text x="2006" y="2714" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 植树、方阵、排队、空瓶换水</text>
+    <text x="2006" y="2780" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 日期星期、周期循环、钟表</text>
+    <text x="2006" y="2846" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 数字计数、页码、比赛场次</text>
+    <text x="2006" y="2912" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 抽屉原理和最不利构造</text>
+  </g>
+
+  <g>
+    <rect x="128" y="3024" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="120" y="3012" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#F2E9DA" stroke-width="3"/>
+    <path d="M 154 3012 H 1854 Q 1888 3012 1888 3046 V 3130 H 120 V 3046 Q 120 3012 154 3012" fill="#715230"/>
+    <circle cx="194" cy="3071" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="194" y="3084" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">11</text>
+    <text x="256" y="3090" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">数列与数字推理</text>
+    <text x="174" y="3208" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 等差、等比、递推、分组和周期数列</text>
+    <text x="174" y="3274" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 多级数列、幂次和组合规律</text>
+    <text x="174" y="3340" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 数字推理是大纲列示题型，近年国考通常不单独设置</text>
+    <text x="174" y="3406" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 数学运算中的数列规律仍可能出现</text>
+  </g>
+
+  <g>
+    <rect x="1960" y="3024" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="1952" y="3012" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#F2E9DA" stroke-width="3"/>
+    <path d="M 1986 3012 H 3686 Q 3720 3012 3720 3046 V 3130 H 1952 V 3046 Q 1952 3012 1986 3012" fill="#866745"/>
+    <circle cx="2026" cy="3071" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="2026" y="3084" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">12</text>
+    <text x="2088" y="3090" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">其他常见模型</text>
+    <text x="2006" y="3208" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 年龄、统筹、比赛、平均数</text>
+    <text x="2006" y="3274" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 资源分配、排班、方案选择</text>
+    <text x="2006" y="3340" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 函数图像和简单不等式</text>
+    <text x="2006" y="3406" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 题目条件较复杂时先找整数、比例和范围限制</text>
+  </g>
+  <text x="120" y="3764" fill="#64716E" font-size="32" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">依据：2026 年度国考公共科目笔试考试大纲 + 2022—2026 年公开真题题型分析</text>
+  <text x="3080" y="3764" fill="#64716E" font-size="32" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">2027 年考试以最新官方大纲为准</text>
+</svg>

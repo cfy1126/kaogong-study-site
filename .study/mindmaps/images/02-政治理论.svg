@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="3840" height="3840" viewBox="0 0 3840 3840">
+  <rect width="3840" height="3840" fill="#F7F5F0"/>
+  <circle cx="155" cy="155" r="94" fill="#F2E4DE" opacity="0.72"/>
+  <circle cx="3670" cy="215" r="52" fill="#F2E4DE" opacity="0.72"/>
+  <rect x="120" y="90" width="3600" height="360" rx="44" fill="#7D4F48"/>
+  <rect x="168" y="142" width="154" height="78" rx="39" fill="#FFFFFF" fill-opacity="0.16"/>
+  <text x="245" y="196" text-anchor="middle" fill="#FFFFFF" font-size="42" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">02</text>
+  <text x="362" y="218" fill="#FFFFFF" font-size="96" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">政治理论</text>
+  <text x="362" y="310" fill="#FFFFFF" fill-opacity="0.86" font-size="42" font-weight="400" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">党的创新理论、重大部署、重点领域与时政更新</text>
+  <text x="362" y="386" fill="#FFFFFF" fill-opacity="0.62" font-size="32" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">国考公共科目 · 2026-08-18 整理</text>
+  <path d="M 1920 450 C 1920 492.32, 1004 492.32, 1004 542" fill="none" stroke="#C39082" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 492.32, 2836 492.32, 2836 542" fill="none" stroke="#C39082" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 719.56, 1004 719.56, 1004 1036" fill="none" stroke="#C39082" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 719.56, 2836 719.56, 2836 1036" fill="none" stroke="#C39082" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 946.8, 1004 946.8, 1004 1530" fill="none" stroke="#C39082" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 946.8, 2836 946.8, 2836 1530" fill="none" stroke="#C39082" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 1174.04, 1004 1174.04, 1004 2024" fill="none" stroke="#C39082" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 1204.4, 2836 1204.4, 2836 2090" fill="none" stroke="#C39082" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 1401.2800000000002, 1004 1401.2800000000002, 1004 2518" fill="none" stroke="#C39082" stroke-width="5" stroke-opacity="0.34"/>
+
+  <g>
+    <rect x="128" y="554" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="120" y="542" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#F2E4DE" stroke-width="3"/>
+    <path d="M 154 542 H 1854 Q 1888 542 1888 576 V 660 H 120 V 576 Q 120 542 154 542" fill="#7d4f48"/>
+    <circle cx="194" cy="601" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="194" y="614" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">1</text>
+    <text x="256" y="620" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">马克思主义基本原理</text>
+    <text x="174" y="738" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 哲学：物质与意识、联系与发展、矛盾、实践与认识</text>
+    <text x="174" y="804" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 历史观：社会存在与社会意识、人民群众、生产力与生产关系</text>
+    <text x="174" y="870" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 政治经济学：商品、价值规律、剩余价值、社会再生产</text>
+    <text x="174" y="936" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 科学社会主义：社会主义发展规律、共产主义理想</text>
+  </g>
+
+  <g>
+    <rect x="1960" y="554" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="1952" y="542" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#F2E4DE" stroke-width="3"/>
+    <path d="M 1986 542 H 3686 Q 3720 542 3720 576 V 660 H 1952 V 576 Q 1952 542 1986 542" fill="#875952"/>
+    <circle cx="2026" cy="601" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="2026" y="614" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">2</text>
+    <text x="2088" y="620" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">党的创新理论</text>
+    <text x="2006" y="738" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 习近平新时代中国特色社会主义思想</text>
+    <text x="2006" y="804" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 主要内容：十个明确、十四个坚持、十三个方面成就</text>
+    <text x="2006" y="870" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 世界观和方法论：六个必须坚持</text>
+    <text x="2006" y="936" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 人民至上、自信自立、守正创新、问题导向、系统观念、胸怀天下</text>
+  </g>
+
+  <g>
+    <rect x="128" y="1048" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="120" y="1036" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#F2E4DE" stroke-width="3"/>
+    <path d="M 154 1036 H 1854 Q 1888 1036 1888 1070 V 1154 H 120 V 1070 Q 120 1036 154 1036" fill="#754740"/>
+    <circle cx="194" cy="1095" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="194" y="1108" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">3</text>
+    <text x="256" y="1114" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">中国式现代化</text>
+    <text x="174" y="1232" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 五个中国特色：人口规模巨大、共同富裕、物质文明和精神文明相协调、人与自然和谐共</text>
+    <text x="202" y="1298" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">生、走和平发展道路</text>
+    <text x="174" y="1364" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 本质要求、重大原则、战略安排、重大关系</text>
+    <text x="174" y="1430" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 全面建成社会主义现代化强国、民族复兴</text>
+  </g>
+
+  <g>
+    <rect x="1960" y="1048" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="1952" y="1036" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#F2E4DE" stroke-width="3"/>
+    <path d="M 1986 1036 H 3686 Q 3720 1036 3720 1070 V 1154 H 1952 V 1070 Q 1952 1036 1986 1036" fill="#8f615a"/>
+    <circle cx="2026" cy="1095" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="2026" y="1108" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">4</text>
+    <text x="2088" y="1114" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">新发展阶段</text>
+    <text x="2006" y="1232" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 新发展理念：创新、协调、绿色、开放、共享</text>
+    <text x="2006" y="1298" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 高质量发展：首要任务、新质生产力、现代化产业体系</text>
+    <text x="2006" y="1364" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 新发展格局：国内大循环、国内国际双循环、全国统一大市场</text>
+    <text x="2006" y="1430" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 统筹发展和安全、扩大内需、科技自立自强</text>
+  </g>
+
+  <g>
+    <rect x="128" y="1542" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="120" y="1530" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#F2E4DE" stroke-width="3"/>
+    <path d="M 154 1530 H 1854 Q 1888 1530 1888 1564 V 1648 H 120 V 1564 Q 120 1530 154 1530" fill="#6e4039"/>
+    <circle cx="194" cy="1589" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="194" y="1602" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">5</text>
+    <text x="256" y="1608" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">全面深化改革</text>
+    <text x="174" y="1726" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 坚持党的全面领导、以人民为中心、守正创新</text>
+    <text x="174" y="1792" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 经济体制改革、教育科技人才体制机制改革</text>
+    <text x="174" y="1858" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 全过程人民民主、法治中国、文化体制机制改革</text>
+    <text x="174" y="1924" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 民生保障、生态文明、国家安全、国防和军队改革</text>
+  </g>
+
+  <g>
+    <rect x="1960" y="1542" width="1768" height="496" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="1952" y="1530" width="1768" height="496" rx="34" fill="#FFFFFF" stroke="#F2E4DE" stroke-width="3"/>
+    <path d="M 1986 1530 H 3686 Q 3720 1530 3720 1564 V 1648 H 1952 V 1564 Q 1952 1530 1986 1530" fill="#83554e"/>
+    <circle cx="2026" cy="1589" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="2026" y="1602" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">6</text>
+    <text x="2088" y="1608" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">党和国家重大部署</text>
+    <text x="2006" y="1726" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 党的二十大和二十届历次全会精神</text>
+    <text x="2006" y="1792" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 五年规划和年度中央经济工作会议</text>
+    <text x="2006" y="1858" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 全国两会、政府工作报告、中央一号文件</text>
+    <text x="2006" y="1924" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 乡村全面振兴、共同富裕、区域协调发展</text>
+    <text x="2006" y="1990" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 全面依法治国、全面从严治党、党的纪律建设</text>
+  </g>
+
+  <g>
+    <rect x="128" y="2036" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="120" y="2024" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#F2E4DE" stroke-width="3"/>
+    <path d="M 154 2024 H 1854 Q 1888 2024 1888 2058 V 2142 H 120 V 2058 Q 120 2024 154 2024" fill="#7d4f48"/>
+    <circle cx="194" cy="2083" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="194" y="2096" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">7</text>
+    <text x="256" y="2102" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">重点领域</text>
+    <text x="174" y="2220" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 经济建设、政治建设、文化建设、社会建设、生态文明建设</text>
+    <text x="174" y="2286" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 教育强国、科技强国、人才强国</text>
+    <text x="174" y="2352" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 总体国家安全观、国防和军队现代化</text>
+    <text x="174" y="2418" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 中国特色大国外交、人类命运共同体</text>
+  </g>
+
+  <g>
+    <rect x="1960" y="2102" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="1952" y="2090" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#F2E4DE" stroke-width="3"/>
+    <path d="M 1986 2090 H 3686 Q 3720 2090 3720 2124 V 2208 H 1952 V 2124 Q 1952 2090 1986 2090" fill="#875952"/>
+    <circle cx="2026" cy="2149" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="2026" y="2162" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">8</text>
+    <text x="2088" y="2168" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">时政更新</text>
+    <text x="2006" y="2286" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 考前一年重要会议、重要文件、重要讲话</text>
+    <text x="2006" y="2352" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 国家重大工程、科技成就、纪念活动</text>
+    <text x="2006" y="2418" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 国际合作和主场外交</text>
+    <text x="2006" y="2484" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 本模块时效性强，须按最新官方文件更新</text>
+  </g>
+
+  <g>
+    <rect x="128" y="2530" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="120" y="2518" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#F2E4DE" stroke-width="3"/>
+    <path d="M 154 2518 H 1854 Q 1888 2518 1888 2552 V 2636 H 120 V 2552 Q 120 2518 154 2518" fill="#754740"/>
+    <circle cx="194" cy="2577" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="194" y="2590" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">9</text>
+    <text x="256" y="2596" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">常见设问</text>
+    <text x="174" y="2714" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 选择正确或错误表述</text>
+    <text x="174" y="2780" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 组合选择题、判断正确项数量</text>
+    <text x="174" y="2846" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 理论观点与材料情境匹配</text>
+    <text x="174" y="2912" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 会议文件、概念内涵与任务对应</text>
+  </g>
+  <text x="120" y="3764" fill="#64716E" font-size="32" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">依据：2026 年度国考公共科目笔试考试大纲 + 2022—2026 年公开真题题型分析</text>
+  <text x="3080" y="3764" fill="#64716E" font-size="32" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">2027 年考试以最新官方大纲为准</text>
+</svg>

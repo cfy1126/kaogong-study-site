@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="3840" height="3840" viewBox="0 0 3840 3840">
+  <rect width="3840" height="3840" fill="#F7F5F0"/>
+  <circle cx="155" cy="155" r="94" fill="#E1ECE5" opacity="0.72"/>
+  <circle cx="3670" cy="215" r="52" fill="#E1ECE5" opacity="0.72"/>
+  <rect x="120" y="90" width="3600" height="360" rx="44" fill="#3E6653"/>
+  <rect x="168" y="142" width="154" height="78" rx="39" fill="#FFFFFF" fill-opacity="0.16"/>
+  <text x="245" y="196" text-anchor="middle" fill="#FFFFFF" font-size="42" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">06</text>
+  <text x="362" y="218" fill="#FFFFFF" font-size="96" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">判断推理</text>
+  <text x="362" y="310" fill="#FFFFFF" fill-opacity="0.86" font-size="42" font-weight="400" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">图形、定义、类比、逻辑与分析推理</text>
+  <text x="362" y="386" fill="#FFFFFF" fill-opacity="0.62" font-size="32" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">国考公共科目 · 2026-08-18 整理</text>
+  <path d="M 1920 450 C 1920 492.32, 1004 492.32, 1004 542" fill="none" stroke="#82A58F" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 492.32, 2836 492.32, 2836 542" fill="none" stroke="#82A58F" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 689.2, 1004 689.2, 1004 970" fill="none" stroke="#82A58F" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 689.2, 2836 689.2, 2836 970" fill="none" stroke="#82A58F" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 886.08, 1004 886.08, 1004 1398" fill="none" stroke="#82A58F" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 916.44, 2836 916.44, 2836 1464" fill="none" stroke="#82A58F" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 1113.3200000000002, 1004 1113.3200000000002, 1004 1892" fill="none" stroke="#82A58F" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 1174.04, 2836 1174.04, 2836 2024" fill="none" stroke="#82A58F" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 1340.56, 1004 1340.56, 1004 2386" fill="none" stroke="#82A58F" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 1401.2800000000002, 2836 1401.2800000000002, 2836 2518" fill="none" stroke="#82A58F" stroke-width="5" stroke-opacity="0.34"/>
+<path d="M 1920 450 C 1920 1598.16, 1004 1598.16, 1004 2946" fill="none" stroke="#82A58F" stroke-width="5" stroke-opacity="0.34"/>
+
+  <g>
+    <rect x="128" y="554" width="1768" height="364" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="120" y="542" width="1768" height="364" rx="34" fill="#FFFFFF" stroke="#E1ECE5" stroke-width="3"/>
+    <path d="M 154 542 H 1854 Q 1888 542 1888 576 V 660 H 120 V 576 Q 120 542 154 542" fill="#3e6653"/>
+    <circle cx="194" cy="601" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="194" y="614" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">1</text>
+    <text x="256" y="620" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">图形推理：位置规律</text>
+    <text x="174" y="738" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 平移、旋转、翻转、遍历</text>
+    <text x="174" y="804" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 相邻、相对、内外和方向变化</text>
+    <text x="174" y="870" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 九宫格、两组式、顺推式</text>
+  </g>
+
+  <g>
+    <rect x="1960" y="554" width="1768" height="364" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="1952" y="542" width="1768" height="364" rx="34" fill="#FFFFFF" stroke="#E1ECE5" stroke-width="3"/>
+    <path d="M 1986 542 H 3686 Q 3720 542 3720 576 V 660 H 1952 V 576 Q 1952 542 1986 542" fill="#48705d"/>
+    <circle cx="2026" cy="601" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="2026" y="614" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">2</text>
+    <text x="2088" y="620" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">图形推理：样式规律</text>
+    <text x="2006" y="738" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 求同、求异、叠加、去同存异</text>
+    <text x="2006" y="804" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 黑白运算、图形拼合</text>
+    <text x="2006" y="870" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 元素替换和局部变化</text>
+  </g>
+
+  <g>
+    <rect x="128" y="982" width="1768" height="364" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="120" y="970" width="1768" height="364" rx="34" fill="#FFFFFF" stroke="#E1ECE5" stroke-width="3"/>
+    <path d="M 154 970 H 1854 Q 1888 970 1888 1004 V 1088 H 120 V 1004 Q 120 970 154 970" fill="#365e4b"/>
+    <circle cx="194" cy="1029" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="194" y="1042" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">3</text>
+    <text x="256" y="1048" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">图形推理：数量规律</text>
+    <text x="174" y="1166" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 点、线、角、面、素、笔画</text>
+    <text x="174" y="1232" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 交点、曲直线、封闭区域</text>
+    <text x="174" y="1298" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 一笔画、多笔画和部分数</text>
+  </g>
+
+  <g>
+    <rect x="1960" y="982" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="1952" y="970" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#E1ECE5" stroke-width="3"/>
+    <path d="M 1986 970 H 3686 Q 3720 970 3720 1004 V 1088 H 1952 V 1004 Q 1952 970 1986 970" fill="#507865"/>
+    <circle cx="2026" cy="1029" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="2026" y="1042" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">4</text>
+    <text x="2088" y="1048" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">图形推理：属性与空间</text>
+    <text x="2006" y="1166" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 对称性、曲直性、开闭性</text>
+    <text x="2006" y="1232" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 凹凸性、重心和元素分布</text>
+    <text x="2006" y="1298" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 六面体、四面体、折纸盒</text>
+    <text x="2006" y="1364" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 截面图、三视图、立体拼合</text>
+  </g>
+
+  <g>
+    <rect x="128" y="1410" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="120" y="1398" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#E1ECE5" stroke-width="3"/>
+    <path d="M 154 1398 H 1854 Q 1888 1398 1888 1432 V 1516 H 120 V 1432 Q 120 1398 154 1398" fill="#2f5744"/>
+    <circle cx="194" cy="1457" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="194" y="1470" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">5</text>
+    <text x="256" y="1476" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">定义判断</text>
+    <text x="174" y="1594" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 找主体、对象、条件、方式、目的和结果</text>
+    <text x="174" y="1660" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 单定义、多定义和关联定义</text>
+    <text x="174" y="1726" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 选符合、选不符合的反向问法</text>
+    <text x="174" y="1792" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 严格依定义，不凭生活经验补条件</text>
+  </g>
+
+  <g>
+    <rect x="1960" y="1476" width="1768" height="496" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="1952" y="1464" width="1768" height="496" rx="34" fill="#FFFFFF" stroke="#E1ECE5" stroke-width="3"/>
+    <path d="M 1986 1464 H 3686 Q 3720 1464 3720 1498 V 1582 H 1952 V 1498 Q 1952 1464 1986 1464" fill="#446c59"/>
+    <circle cx="2026" cy="1523" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="2026" y="1536" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">6</text>
+    <text x="2088" y="1542" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">类比推理</text>
+    <text x="2006" y="1660" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 语义：近义、反义、象征和程度</text>
+    <text x="2006" y="1726" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 逻辑：并列、包含、组成、对应、因果、条件</text>
+    <text x="2006" y="1792" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 功能、工具、材料、场所、职业与对象</text>
+    <text x="2006" y="1858" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 语法：主谓、动宾、偏正</text>
+    <text x="2006" y="1924" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 二级辨析：词性、顺序、必然性、感情色彩</text>
+  </g>
+
+  <g>
+    <rect x="128" y="1904" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="120" y="1892" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#E1ECE5" stroke-width="3"/>
+    <path d="M 154 1892 H 1854 Q 1888 1892 1888 1926 V 2010 H 120 V 1926 Q 120 1892 154 1892" fill="#3e6653"/>
+    <circle cx="194" cy="1951" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="194" y="1964" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">7</text>
+    <text x="256" y="1970" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">翻译推理</text>
+    <text x="174" y="2088" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 充分条件、必要条件、逆否命题</text>
+    <text x="174" y="2154" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 且、或、要么、除非、只有、只要</text>
+    <text x="174" y="2220" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 所有、有的、至少、至多、恰好</text>
+    <text x="174" y="2286" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 命题否定和等价转换</text>
+  </g>
+
+  <g>
+    <rect x="1960" y="2036" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="1952" y="2024" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#E1ECE5" stroke-width="3"/>
+    <path d="M 1986 2024 H 3686 Q 3720 2024 3720 2058 V 2142 H 1952 V 2058 Q 1952 2024 1986 2024" fill="#48705d"/>
+    <circle cx="2026" cy="2083" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="2026" y="2096" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">8</text>
+    <text x="2088" y="2102" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">真假推理</text>
+    <text x="2006" y="2220" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 矛盾关系、反对关系和下反对关系</text>
+    <text x="2006" y="2286" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 一真一假、真假数量和代入验证</text>
+    <text x="2006" y="2352" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 先找矛盾，再判断其余命题</text>
+    <text x="2006" y="2418" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 把人数范围和条件全部数完</text>
+  </g>
+
+  <g>
+    <rect x="128" y="2398" width="1768" height="496" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="120" y="2386" width="1768" height="496" rx="34" fill="#FFFFFF" stroke="#E1ECE5" stroke-width="3"/>
+    <path d="M 154 2386 H 1854 Q 1888 2386 1888 2420 V 2504 H 120 V 2420 Q 120 2386 154 2386" fill="#365e4b"/>
+    <circle cx="194" cy="2445" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="194" y="2458" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">9</text>
+    <text x="256" y="2464" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">论证推理</text>
+    <text x="174" y="2582" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 削弱、加强、前提假设</text>
+    <text x="174" y="2648" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 解释现象、评价论证、得出结论</text>
+    <text x="174" y="2714" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 因果倒置、另有他因、样本代表性</text>
+    <text x="174" y="2780" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 建立联系、断开联系、否定代入</text>
+    <text x="174" y="2846" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 比较选项与结论的直接程度和力度</text>
+  </g>
+
+  <g>
+    <rect x="1960" y="2530" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="1952" y="2518" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#E1ECE5" stroke-width="3"/>
+    <path d="M 1986 2518 H 3686 Q 3720 2518 3720 2552 V 2636 H 1952 V 2552 Q 1952 2518 1986 2518" fill="#507865"/>
+    <circle cx="2026" cy="2577" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="2026" y="2590" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">10</text>
+    <text x="2088" y="2596" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">分析推理</text>
+    <text x="2006" y="2714" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 排序、分组、匹配、位置和数量安排</text>
+    <text x="2006" y="2780" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 确定信息优先，最大信息列表</text>
+    <text x="2006" y="2846" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 假设法、代入法、排除法</text>
+    <text x="2006" y="2912" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 一则材料五问的综合分析题</text>
+  </g>
+
+  <g>
+    <rect x="128" y="2958" width="1768" height="430" rx="34" fill="#20312E" opacity="0.08"/>
+    <rect x="120" y="2946" width="1768" height="430" rx="34" fill="#FFFFFF" stroke="#E1ECE5" stroke-width="3"/>
+    <path d="M 154 2946 H 1854 Q 1888 2946 1888 2980 V 3064 H 120 V 2980 Q 120 2946 154 2946" fill="#2f5744"/>
+    <circle cx="194" cy="3005" r="32" fill="#FFFFFF" fill-opacity="0.2"/>
+    <text x="194" y="3018" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">11</text>
+    <text x="256" y="3024" fill="#FFFFFF" font-size="54" font-weight="700" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">其他逻辑题</text>
+    <text x="174" y="3142" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 归纳推理、类比论证、结构相似</text>
+    <text x="174" y="3208" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 原因解释、数据结论和实验设计</text>
+    <text x="174" y="3274" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 结论能否推出与信息充分性</text>
+    <text x="174" y="3340" fill="#243331" font-size="40" font-weight="430" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">• 避免把可能成立当成一定成立</text>
+  </g>
+  <text x="120" y="3764" fill="#64716E" font-size="32" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">依据：2026 年度国考公共科目笔试考试大纲 + 2022—2026 年公开真题题型分析</text>
+  <text x="3080" y="3764" fill="#64716E" font-size="32" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif">2027 年考试以最新官方大纲为准</text>
+</svg>
