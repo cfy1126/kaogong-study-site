@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1254" height="1254" viewBox="0 0 1254 1254">
+  <rect width="1254" height="1254" fill="#F3F4F1"/>
+  <rect x="54" y="54" width="1146" height="1146" rx="38" fill="#FFFEFB" stroke="#D5D9D3" stroke-width="2"/>
+
+  <text x="102" y="125" fill="#68716C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30" font-weight="600" letter-spacing="2">判断推理 · 真假推理二刷</text>
+  <text x="102" y="248" fill="#253630" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="108" font-weight="700">5 / 6</text>
+  <text x="800" y="226" fill="#2D725C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="60" font-weight="700">83.3%</text>
+  <text x="800" y="275" fill="#68716C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="28">4分36秒</text>
+
+  <rect x="102" y="315" width="1050" height="96" rx="20" fill="#F7EDE8"/>
+  <text x="142" y="377" fill="#9A4F3D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="34" font-weight="600">状态：需要二刷　·　旧错因再次出现</text>
+
+  <text x="102" y="500" fill="#253630" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="38" font-weight="700">先看题目问什么</text>
+
+  <rect x="102" y="541" width="500" height="210" rx="24" fill="#EAF3EF" stroke="#C7DDD4" stroke-width="2"/>
+  <text x="145" y="612" fill="#2D725C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="38" font-weight="700">可能</text>
+  <text x="145" y="674" fill="#405A50" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31">找到一个合法分支</text>
+  <text x="145" y="716" fill="#68716C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">成立即可</text>
+
+  <rect x="652" y="541" width="500" height="210" rx="24" fill="#EEF1F5" stroke="#CFD6DF" stroke-width="2"/>
+  <text x="695" y="612" fill="#486A83" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="38" font-weight="700">一定</text>
+  <text x="695" y="674" fill="#405363" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31">列完全部合法分支</text>
+  <text x="695" y="716" fill="#68716C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">只取共同结论</text>
+
+  <rect x="102" y="790" width="1050" height="176" rx="24" fill="#F7F0E4" stroke="#E5D6BC" stroke-width="2"/>
+  <text x="145" y="856" fill="#8A6337" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="34" font-weight="700">防错动作</text>
+  <text x="145" y="921" fill="#51483D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="34">找到第一种后，再问：还有没有第二种？</text>
+
+  <line x1="102" y1="1021" x2="1152" y2="1021" stroke="#D5D9D3" stroke-width="2"/>
+  <text x="102" y="1088" fill="#253630" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="34" font-weight="700">下次：8月23—27日，6题延迟复测</text>
+  <text x="102" y="1138" fill="#68716C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="28">限时6分钟 · 至少答对5题 · 不再漏查分支</text>
+</svg>

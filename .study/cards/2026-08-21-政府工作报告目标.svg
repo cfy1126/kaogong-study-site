@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1254" height="1254" viewBox="0 0 1254 1254">
+  <rect width="1254" height="1254" fill="#F3F4F1"/>
+  <rect x="54" y="54" width="1146" height="1146" rx="38" fill="#FFFEFB" stroke="#D5D9D3" stroke-width="2"/>
+
+  <text x="102" y="125" fill="#68716C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30" font-weight="600" letter-spacing="2">时政 · 2026年政府工作报告</text>
+  <text x="102" y="234" fill="#253630" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="64" font-weight="700">核心预期目标</text>
+
+  <rect x="102" y="280" width="1050" height="92" rx="20" fill="#F7F0E4"/>
+  <text x="142" y="340" fill="#8A6337" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="32" font-weight="600">状态：易错　·　重点检查 1.4 和 3.8</text>
+
+  <rect x="102" y="420" width="500" height="210" rx="24" fill="#EAF3EF" stroke="#C7DDD4" stroke-width="2"/>
+  <text x="145" y="486" fill="#2D725C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31" font-weight="700">经济增长</text>
+  <text x="145" y="565" fill="#253630" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="54" font-weight="700">4.5%—5%</text>
+  <text x="145" y="605" fill="#68716C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25">“十五五”开局之年</text>
+
+  <rect x="652" y="420" width="500" height="210" rx="24" fill="#EEF1F5" stroke="#CFD6DF" stroke-width="2"/>
+  <text x="695" y="486" fill="#405363" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31" font-weight="700">就业</text>
+  <text x="695" y="555" fill="#253630" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="45" font-weight="700">5.5% 左右</text>
+  <text x="695" y="603" fill="#68716C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">新增就业 1200万人以上</text>
+
+  <rect x="102" y="670" width="500" height="220" rx="24" fill="#EEF1F5" stroke="#CFD6DF" stroke-width="2"/>
+  <text x="145" y="738" fill="#405363" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31" font-weight="700">物价与收入</text>
+  <text x="145" y="810" fill="#253630" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="50" font-weight="700">2% 左右</text>
+  <text x="145" y="860" fill="#68716C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">居民收入与经济增长同步</text>
+
+  <rect x="652" y="670" width="500" height="220" rx="24" fill="#F7F0E4" stroke="#E5D6BC" stroke-width="2"/>
+  <text x="695" y="738" fill="#8A6337" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31" font-weight="700">粮食与降碳</text>
+  <text x="695" y="808" fill="#253630" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="43" font-weight="700">1.4万亿斤</text>
+  <text x="695" y="858" fill="#756858" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="28">单位GDP降碳 3.8%左右</text>
+
+  <line x1="102" y1="958" x2="1152" y2="958" stroke="#D5D9D3" stroke-width="2"/>
+  <text x="102" y="1032" fill="#253630" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="34" font-weight="700">记忆：物价2、收入同步；粮食1.4、降碳3.8</text>
+  <text x="102" y="1090" fill="#68716C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">8月22日短回忆 · 8月24—28日延迟复测</text>
+  <text x="102" y="1140" fill="#68716C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24">完整记录以 Markdown 为准</text>
+</svg>

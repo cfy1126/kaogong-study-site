@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1254" height="1254" viewBox="0 0 1254 1254">
+  <rect width="1254" height="1254" fill="#F5F3EE"/>
+  <rect x="54" y="54" width="1146" height="1146" rx="38" fill="#FFFEFB" stroke="#D7D2C7" stroke-width="2"/>
+
+  <text x="102" y="125" fill="#66706A" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30" font-weight="600" letter-spacing="2">资料分析 · 第一次整组限时</text>
+  <text x="102" y="248" fill="#24342F" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="112" font-weight="700">18 / 20</text>
+  <text x="797" y="226" fill="#286C57" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="60" font-weight="700">90%</text>
+  <text x="797" y="275" fill="#66706A" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="28">正确率</text>
+
+  <rect x="102" y="315" width="1050" height="96" rx="20" fill="#EAF2EE"/>
+  <text x="142" y="377" fill="#286C57" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="34" font-weight="600">17分20秒　·　目标30分钟　·　验收通过</text>
+
+  <text x="102" y="500" fill="#24342F" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="38" font-weight="700">这次暴露的两个点</text>
+
+  <rect x="102" y="541" width="1050" height="178" rx="24" fill="#F7F0E4" stroke="#E7D7BD" stroke-width="2"/>
+  <circle cx="156" cy="596" r="22" fill="#B87932"/>
+  <text x="149" y="606" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="26" font-weight="700">1</text>
+  <text x="199" y="605" fill="#3C3328" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="34" font-weight="700">增量贡献</text>
+  <text x="199" y="662" fill="#5F5548" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31">部分增量 ÷ 总增量</text>
+  <text x="199" y="702" fill="#8A6841" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25">有分类下降时，单项贡献率可以超过 100%</text>
+
+  <rect x="102" y="747" width="1050" height="208" rx="24" fill="#EDF1F4" stroke="#CFD9DF" stroke-width="2"/>
+  <circle cx="156" cy="802" r="22" fill="#52758A"/>
+  <text x="149" y="812" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="26" font-weight="700">2</text>
+  <text x="199" y="811" fill="#293842" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="34" font-weight="700">平均数变化</text>
+  <text x="199" y="866" fill="#475A65" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30">先判方向：总量↑、份数↓ → 平均数↑</text>
+  <text x="199" y="916" fill="#475A65" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">(1＋总量增速) ÷ (1＋份数增速)－1</text>
+
+  <line x1="102" y1="1013" x2="1152" y2="1013" stroke="#D7D2C7" stroke-width="2"/>
+  <text x="102" y="1082" fill="#24342F" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="34" font-weight="700">下次：8月22—26日，6题短复测</text>
+  <text x="102" y="1132" fill="#66706A" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="28">限时6分钟 · 至少答对5题 · 重点检查平均数变化</text>
+</svg>

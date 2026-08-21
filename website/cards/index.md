@@ -3,57 +3,63 @@
 这些卡片用于快速复习核心概念、公式和易错点。图片只是辅助记忆，正式记录仍以 Markdown 学习笔记为准。
 
 <div class="card-gallery">
-<figure><img src="/cards/2026-06-20-资料分析-基期现期.png" alt="资料分析-基期现期"><figcaption>资料分析-基期现期</figcaption></figure>
-<figure><img src="/cards/2026-06-21-倍数.png" alt="倍数"><figcaption>倍数</figcaption></figure>
-<figure><img src="/cards/2026-06-21-比重.png" alt="比重"><figcaption>比重</figcaption></figure>
-<figure><img src="/cards/2026-06-21-基期易错问法.png" alt="基期易错问法"><figcaption>基期易错问法</figcaption></figure>
-<figure><img src="/cards/2026-06-21-平均数.png" alt="平均数"><figcaption>平均数</figcaption></figure>
-<figure><img src="/cards/2026-06-21-增长量增长率.png" alt="增长量增长率"><figcaption>增长量增长率</figcaption></figure>
-<figure><img src="/cards/2026-06-22-隔年增长.png" alt="隔年增长"><figcaption>隔年增长</figcaption></figure>
-<figure><img src="/cards/2026-06-22-混合增长.png" alt="混合增长"><figcaption>混合增长</figcaption></figure>
-<figure><img src="/cards/2026-06-22-年均增长.png" alt="年均增长"><figcaption>年均增长</figcaption></figure>
-<figure><img src="/cards/2026-06-27-申论归纳概括.png" alt="申论归纳概括"><figcaption>申论归纳概括</figcaption></figure>
-<figure><img src="/cards/2026-06-28-申论概括问题.png" alt="申论概括问题"><figcaption>申论概括问题</figcaption></figure>
-<figure><img src="/cards/2026-06-29-申论概括原因.png" alt="申论概括原因"><figcaption>申论概括原因</figcaption></figure>
-<figure><img src="/cards/2026-07-05-问题原因混合判断.png" alt="问题原因混合判断"><figcaption>问题原因混合判断</figcaption></figure>
-<figure><img src="/cards/2026-07-08-答案句压缩.png" alt="答案句压缩"><figcaption>答案句压缩</figcaption></figure>
-<figure><img src="/cards/2026-07-08-图形推理位置规律.png" alt="图形推理位置规律"><figcaption>图形推理位置规律</figcaption></figure>
-<figure><img src="/cards/2026-07-12-图形推理.png" alt="图形推理"><figcaption>图形推理</figcaption></figure>
-<figure><img src="/cards/2026-07-13-数线.png" alt="数线"><figcaption>数线</figcaption></figure>
-<figure><img src="/cards/2026-07-14-限字整合答案.png" alt="限字整合答案"><figcaption>限字整合答案</figcaption></figure>
-<figure><img src="/cards/2026-07-18-定义判断.png" alt="定义判断"><figcaption>定义判断</figcaption></figure>
-<figure><img src="/cards/2026-07-18-类比推理入门.png" alt="类比推理入门"><figcaption>类比推理入门</figcaption></figure>
-<figure><img src="/cards/2026-07-19-类比推理综合巩固.png" alt="类比推理综合巩固"><figcaption>类比推理综合巩固</figcaption></figure>
-<figure><img src="/cards/2026-07-19-削弱加强入门.png" alt="削弱加强入门"><figcaption>削弱加强入门</figcaption></figure>
-<figure><img src="/cards/2026-07-20-否定代入法.png" alt="否定代入法"><figcaption>否定代入法</figcaption></figure>
-<figure><img src="/cards/2026-07-20-前提假设入门.png" alt="前提假设入门"><figcaption>前提假设入门</figcaption></figure>
-<figure><img src="/cards/2026-07-21-前提假设综合巩固.png" alt="前提假设综合巩固"><figcaption>前提假设综合巩固</figcaption></figure>
-<figure><img src="/cards/2026-07-22-真假推理入门.png" alt="真假推理入门"><figcaption>真假推理入门</figcaption></figure>
-<figure><img src="/cards/2026-07-27-提出对策入门.png" alt="提出对策入门"><figcaption>提出对策入门</figcaption></figure>
-<figure><img src="/cards/2026-07-28-提出对策漏点多余项.png" alt="提出对策漏点多余项"><figcaption>提出对策漏点多余项</figcaption></figure>
-<figure><img src="/cards/2026-07-29-申论提出对策核心答题卡.png" alt="申论提出对策核心答题卡"><figcaption>申论提出对策核心答题卡</figcaption></figure>
-<figure><img src="/cards/2026-07-29-提出对策手机复习.png" alt="提出对策手机复习"><figcaption>提出对策手机复习</figcaption></figure>
-<figure><img src="/cards/2026-07-30-申论对策分条.png" alt="申论对策分条"><figcaption>申论对策分条</figcaption></figure>
-<figure><img src="/cards/2026-07-31-申论对策对应.png" alt="申论对策对应"><figcaption>申论对策对应</figcaption></figure>
-<figure><img src="/cards/2026-07-31-真假推理进阶.png" alt="真假推理进阶"><figcaption>真假推理进阶</figcaption></figure>
-<figure><img src="/cards/2026-08-01-真假推理进阶.png" alt="真假推理进阶"><figcaption>真假推理进阶</figcaption></figure>
-<figure><img src="/cards/2026-08-05-资料分析综合判断.png" alt="资料分析综合判断"><figcaption>资料分析综合判断</figcaption></figure>
-<figure><img src="/cards/2026-08-10-申论对策分条.png" alt="申论对策分条"><figcaption>申论对策分条</figcaption></figure>
-<figure><img src="/cards/2026-08-11-资料分析速算估算.png" alt="资料分析速算估算"><figcaption>资料分析速算估算</figcaption></figure>
-<figure><img src="/cards/2026-08-12-言语理解基础.png" alt="言语理解基础"><figcaption>言语理解基础</figcaption></figure>
-<figure><img src="/cards/2026-08-12-言语理解中心理解.png" alt="言语理解中心理解"><figcaption>言语理解中心理解</figcaption></figure>
-<figure><img src="/cards/2026-08-13-讲话稿入门.png" alt="讲话稿入门"><figcaption>讲话稿入门</figcaption></figure>
-<figure><img src="/cards/2026-08-13-申论对策二刷.png" alt="申论对策二刷"><figcaption>申论对策二刷</figcaption></figure>
-<figure><img src="/cards/2026-08-13-语句排序.png" alt="语句排序"><figcaption>语句排序</figcaption></figure>
-<figure><img src="/cards/2026-08-13-语句排序二刷.png" alt="语句排序二刷"><figcaption>语句排序二刷</figcaption></figure>
-<figure><img src="/cards/2026-08-13-语句填空.png" alt="语句填空"><figcaption>语句填空</figcaption></figure>
-<figure><img src="/cards/2026-08-14-言语理解限时复测.png" alt="言语理解限时复测"><figcaption>言语理解限时复测</figcaption></figure>
-<figure><img src="/cards/2026-08-15-真假推理.png" alt="真假推理"><figcaption>真假推理</figcaption></figure>
-<figure><img src="/cards/2026-08-15-周末言语复盘.png" alt="周末言语复盘"><figcaption>周末言语复盘</figcaption></figure>
-<figure><img src="/cards/2026-08-18-高质量发展.png" alt="高质量发展"><figcaption>高质量发展</figcaption></figure>
-<figure><img src="/cards/2026-08-18-逻辑填空.png" alt="逻辑填空"><figcaption>逻辑填空</figcaption></figure>
-<figure><img src="/cards/2026-08-18-新发展理念.png" alt="新发展理念"><figcaption>新发展理念</figcaption></figure>
-<figure><img src="/cards/2026-08-18-新时代思想核心词.png" alt="新时代思想核心词"><figcaption>新时代思想核心词</figcaption></figure>
-<figure><img src="/cards/2026-08-18-言语限时复测.png" alt="言语限时复测"><figcaption>言语限时复测</figcaption></figure>
-<figure><img src="/cards/2026-08-18-中国式现代化.png" alt="中国式现代化"><figcaption>中国式现代化</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-06-20-资料分析-基期现期.png" data-card-alt="资料分析-基期现期" aria-label="预览资料分析-基期现期"><img src="/cards/2026-06-20-资料分析-基期现期.png" alt="资料分析-基期现期" loading="lazy"></button><figcaption>资料分析-基期现期</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-06-21-倍数.png" data-card-alt="倍数" aria-label="预览倍数"><img src="/cards/2026-06-21-倍数.png" alt="倍数" loading="lazy"></button><figcaption>倍数</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-06-21-比重.png" data-card-alt="比重" aria-label="预览比重"><img src="/cards/2026-06-21-比重.png" alt="比重" loading="lazy"></button><figcaption>比重</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-06-21-基期易错问法.png" data-card-alt="基期易错问法" aria-label="预览基期易错问法"><img src="/cards/2026-06-21-基期易错问法.png" alt="基期易错问法" loading="lazy"></button><figcaption>基期易错问法</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-06-21-平均数.png" data-card-alt="平均数" aria-label="预览平均数"><img src="/cards/2026-06-21-平均数.png" alt="平均数" loading="lazy"></button><figcaption>平均数</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-06-21-增长量增长率.png" data-card-alt="增长量增长率" aria-label="预览增长量增长率"><img src="/cards/2026-06-21-增长量增长率.png" alt="增长量增长率" loading="lazy"></button><figcaption>增长量增长率</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-06-22-隔年增长.png" data-card-alt="隔年增长" aria-label="预览隔年增长"><img src="/cards/2026-06-22-隔年增长.png" alt="隔年增长" loading="lazy"></button><figcaption>隔年增长</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-06-22-混合增长.png" data-card-alt="混合增长" aria-label="预览混合增长"><img src="/cards/2026-06-22-混合增长.png" alt="混合增长" loading="lazy"></button><figcaption>混合增长</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-06-22-年均增长.png" data-card-alt="年均增长" aria-label="预览年均增长"><img src="/cards/2026-06-22-年均增长.png" alt="年均增长" loading="lazy"></button><figcaption>年均增长</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-06-27-申论归纳概括.png" data-card-alt="申论归纳概括" aria-label="预览申论归纳概括"><img src="/cards/2026-06-27-申论归纳概括.png" alt="申论归纳概括" loading="lazy"></button><figcaption>申论归纳概括</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-06-28-申论概括问题.png" data-card-alt="申论概括问题" aria-label="预览申论概括问题"><img src="/cards/2026-06-28-申论概括问题.png" alt="申论概括问题" loading="lazy"></button><figcaption>申论概括问题</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-06-29-申论概括原因.png" data-card-alt="申论概括原因" aria-label="预览申论概括原因"><img src="/cards/2026-06-29-申论概括原因.png" alt="申论概括原因" loading="lazy"></button><figcaption>申论概括原因</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-07-05-问题原因混合判断.png" data-card-alt="问题原因混合判断" aria-label="预览问题原因混合判断"><img src="/cards/2026-07-05-问题原因混合判断.png" alt="问题原因混合判断" loading="lazy"></button><figcaption>问题原因混合判断</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-07-08-答案句压缩.png" data-card-alt="答案句压缩" aria-label="预览答案句压缩"><img src="/cards/2026-07-08-答案句压缩.png" alt="答案句压缩" loading="lazy"></button><figcaption>答案句压缩</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-07-08-图形推理位置规律.png" data-card-alt="图形推理位置规律" aria-label="预览图形推理位置规律"><img src="/cards/2026-07-08-图形推理位置规律.png" alt="图形推理位置规律" loading="lazy"></button><figcaption>图形推理位置规律</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-07-12-图形推理.png" data-card-alt="图形推理" aria-label="预览图形推理"><img src="/cards/2026-07-12-图形推理.png" alt="图形推理" loading="lazy"></button><figcaption>图形推理</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-07-13-数线.png" data-card-alt="数线" aria-label="预览数线"><img src="/cards/2026-07-13-数线.png" alt="数线" loading="lazy"></button><figcaption>数线</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-07-14-限字整合答案.png" data-card-alt="限字整合答案" aria-label="预览限字整合答案"><img src="/cards/2026-07-14-限字整合答案.png" alt="限字整合答案" loading="lazy"></button><figcaption>限字整合答案</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-07-18-定义判断.png" data-card-alt="定义判断" aria-label="预览定义判断"><img src="/cards/2026-07-18-定义判断.png" alt="定义判断" loading="lazy"></button><figcaption>定义判断</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-07-18-类比推理入门.png" data-card-alt="类比推理入门" aria-label="预览类比推理入门"><img src="/cards/2026-07-18-类比推理入门.png" alt="类比推理入门" loading="lazy"></button><figcaption>类比推理入门</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-07-19-类比推理综合巩固.png" data-card-alt="类比推理综合巩固" aria-label="预览类比推理综合巩固"><img src="/cards/2026-07-19-类比推理综合巩固.png" alt="类比推理综合巩固" loading="lazy"></button><figcaption>类比推理综合巩固</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-07-19-削弱加强入门.png" data-card-alt="削弱加强入门" aria-label="预览削弱加强入门"><img src="/cards/2026-07-19-削弱加强入门.png" alt="削弱加强入门" loading="lazy"></button><figcaption>削弱加强入门</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-07-20-否定代入法.png" data-card-alt="否定代入法" aria-label="预览否定代入法"><img src="/cards/2026-07-20-否定代入法.png" alt="否定代入法" loading="lazy"></button><figcaption>否定代入法</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-07-20-前提假设入门.png" data-card-alt="前提假设入门" aria-label="预览前提假设入门"><img src="/cards/2026-07-20-前提假设入门.png" alt="前提假设入门" loading="lazy"></button><figcaption>前提假设入门</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-07-21-前提假设综合巩固.png" data-card-alt="前提假设综合巩固" aria-label="预览前提假设综合巩固"><img src="/cards/2026-07-21-前提假设综合巩固.png" alt="前提假设综合巩固" loading="lazy"></button><figcaption>前提假设综合巩固</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-07-22-真假推理入门.png" data-card-alt="真假推理入门" aria-label="预览真假推理入门"><img src="/cards/2026-07-22-真假推理入门.png" alt="真假推理入门" loading="lazy"></button><figcaption>真假推理入门</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-07-27-提出对策入门.png" data-card-alt="提出对策入门" aria-label="预览提出对策入门"><img src="/cards/2026-07-27-提出对策入门.png" alt="提出对策入门" loading="lazy"></button><figcaption>提出对策入门</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-07-28-提出对策漏点多余项.png" data-card-alt="提出对策漏点多余项" aria-label="预览提出对策漏点多余项"><img src="/cards/2026-07-28-提出对策漏点多余项.png" alt="提出对策漏点多余项" loading="lazy"></button><figcaption>提出对策漏点多余项</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-07-29-申论提出对策核心答题卡.png" data-card-alt="申论提出对策核心答题卡" aria-label="预览申论提出对策核心答题卡"><img src="/cards/2026-07-29-申论提出对策核心答题卡.png" alt="申论提出对策核心答题卡" loading="lazy"></button><figcaption>申论提出对策核心答题卡</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-07-29-提出对策手机复习.png" data-card-alt="提出对策手机复习" aria-label="预览提出对策手机复习"><img src="/cards/2026-07-29-提出对策手机复习.png" alt="提出对策手机复习" loading="lazy"></button><figcaption>提出对策手机复习</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-07-30-申论对策分条.png" data-card-alt="申论对策分条" aria-label="预览申论对策分条"><img src="/cards/2026-07-30-申论对策分条.png" alt="申论对策分条" loading="lazy"></button><figcaption>申论对策分条</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-07-31-申论对策对应.png" data-card-alt="申论对策对应" aria-label="预览申论对策对应"><img src="/cards/2026-07-31-申论对策对应.png" alt="申论对策对应" loading="lazy"></button><figcaption>申论对策对应</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-07-31-真假推理进阶.png" data-card-alt="真假推理进阶" aria-label="预览真假推理进阶"><img src="/cards/2026-07-31-真假推理进阶.png" alt="真假推理进阶" loading="lazy"></button><figcaption>真假推理进阶</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-08-01-真假推理进阶.png" data-card-alt="真假推理进阶" aria-label="预览真假推理进阶"><img src="/cards/2026-08-01-真假推理进阶.png" alt="真假推理进阶" loading="lazy"></button><figcaption>真假推理进阶</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-08-05-资料分析综合判断.png" data-card-alt="资料分析综合判断" aria-label="预览资料分析综合判断"><img src="/cards/2026-08-05-资料分析综合判断.png" alt="资料分析综合判断" loading="lazy"></button><figcaption>资料分析综合判断</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-08-10-申论对策分条.png" data-card-alt="申论对策分条" aria-label="预览申论对策分条"><img src="/cards/2026-08-10-申论对策分条.png" alt="申论对策分条" loading="lazy"></button><figcaption>申论对策分条</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-08-11-资料分析速算估算.png" data-card-alt="资料分析速算估算" aria-label="预览资料分析速算估算"><img src="/cards/2026-08-11-资料分析速算估算.png" alt="资料分析速算估算" loading="lazy"></button><figcaption>资料分析速算估算</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-08-12-言语理解基础.png" data-card-alt="言语理解基础" aria-label="预览言语理解基础"><img src="/cards/2026-08-12-言语理解基础.png" alt="言语理解基础" loading="lazy"></button><figcaption>言语理解基础</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-08-12-言语理解中心理解.png" data-card-alt="言语理解中心理解" aria-label="预览言语理解中心理解"><img src="/cards/2026-08-12-言语理解中心理解.png" alt="言语理解中心理解" loading="lazy"></button><figcaption>言语理解中心理解</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-08-13-讲话稿入门.png" data-card-alt="讲话稿入门" aria-label="预览讲话稿入门"><img src="/cards/2026-08-13-讲话稿入门.png" alt="讲话稿入门" loading="lazy"></button><figcaption>讲话稿入门</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-08-13-申论对策二刷.png" data-card-alt="申论对策二刷" aria-label="预览申论对策二刷"><img src="/cards/2026-08-13-申论对策二刷.png" alt="申论对策二刷" loading="lazy"></button><figcaption>申论对策二刷</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-08-13-语句排序.png" data-card-alt="语句排序" aria-label="预览语句排序"><img src="/cards/2026-08-13-语句排序.png" alt="语句排序" loading="lazy"></button><figcaption>语句排序</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-08-13-语句排序二刷.png" data-card-alt="语句排序二刷" aria-label="预览语句排序二刷"><img src="/cards/2026-08-13-语句排序二刷.png" alt="语句排序二刷" loading="lazy"></button><figcaption>语句排序二刷</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-08-13-语句填空.png" data-card-alt="语句填空" aria-label="预览语句填空"><img src="/cards/2026-08-13-语句填空.png" alt="语句填空" loading="lazy"></button><figcaption>语句填空</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-08-14-言语理解限时复测.png" data-card-alt="言语理解限时复测" aria-label="预览言语理解限时复测"><img src="/cards/2026-08-14-言语理解限时复测.png" alt="言语理解限时复测" loading="lazy"></button><figcaption>言语理解限时复测</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-08-15-真假推理.png" data-card-alt="真假推理" aria-label="预览真假推理"><img src="/cards/2026-08-15-真假推理.png" alt="真假推理" loading="lazy"></button><figcaption>真假推理</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-08-15-周末言语复盘.png" data-card-alt="周末言语复盘" aria-label="预览周末言语复盘"><img src="/cards/2026-08-15-周末言语复盘.png" alt="周末言语复盘" loading="lazy"></button><figcaption>周末言语复盘</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-08-18-高质量发展.png" data-card-alt="高质量发展" aria-label="预览高质量发展"><img src="/cards/2026-08-18-高质量发展.png" alt="高质量发展" loading="lazy"></button><figcaption>高质量发展</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-08-18-逻辑填空.png" data-card-alt="逻辑填空" aria-label="预览逻辑填空"><img src="/cards/2026-08-18-逻辑填空.png" alt="逻辑填空" loading="lazy"></button><figcaption>逻辑填空</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-08-18-新发展理念.png" data-card-alt="新发展理念" aria-label="预览新发展理念"><img src="/cards/2026-08-18-新发展理念.png" alt="新发展理念" loading="lazy"></button><figcaption>新发展理念</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-08-18-新时代思想核心词.png" data-card-alt="新时代思想核心词" aria-label="预览新时代思想核心词"><img src="/cards/2026-08-18-新时代思想核心词.png" alt="新时代思想核心词" loading="lazy"></button><figcaption>新时代思想核心词</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-08-18-言语限时复测.png" data-card-alt="言语限时复测" aria-label="预览言语限时复测"><img src="/cards/2026-08-18-言语限时复测.png" alt="言语限时复测" loading="lazy"></button><figcaption>言语限时复测</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-08-18-中国式现代化.png" data-card-alt="中国式现代化" aria-label="预览中国式现代化"><img src="/cards/2026-08-18-中国式现代化.png" alt="中国式现代化" loading="lazy"></button><figcaption>中国式现代化</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-08-19-倡议书.png" data-card-alt="倡议书" aria-label="预览倡议书"><img src="/cards/2026-08-19-倡议书.png" alt="倡议书" loading="lazy"></button><figcaption>倡议书</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-08-19-资料分析限时复测.png" data-card-alt="资料分析限时复测" aria-label="预览资料分析限时复测"><img src="/cards/2026-08-19-资料分析限时复测.png" alt="资料分析限时复测" loading="lazy"></button><figcaption>资料分析限时复测</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-08-20-真假推理二刷.png" data-card-alt="真假推理二刷" aria-label="预览真假推理二刷"><img src="/cards/2026-08-20-真假推理二刷.png" alt="真假推理二刷" loading="lazy"></button><figcaption>真假推理二刷</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-08-20-政治理论与逻辑填空.png" data-card-alt="政治理论与逻辑填空" aria-label="预览政治理论与逻辑填空"><img src="/cards/2026-08-20-政治理论与逻辑填空.png" alt="政治理论与逻辑填空" loading="lazy"></button><figcaption>政治理论与逻辑填空</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-08-21-工程问题基础.png" data-card-alt="工程问题基础" aria-label="预览工程问题基础"><img src="/cards/2026-08-21-工程问题基础.png" alt="工程问题基础" loading="lazy"></button><figcaption>工程问题基础</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-08-21-政府工作报告目标.png" data-card-alt="政府工作报告目标" aria-label="预览政府工作报告目标"><img src="/cards/2026-08-21-政府工作报告目标.png" alt="政府工作报告目标" loading="lazy"></button><figcaption>政府工作报告目标</figcaption></figure>
 </div>
