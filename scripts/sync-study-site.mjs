@@ -23,6 +23,13 @@ const listFiles = async (dir, ext) => {
 
 const stripCodeTicks = (value) => value.replace(/`/g, "");
 
+const escapeHtmlAttribute = (value) =>
+  value
+    .replace(/&/g, "&amp;")
+    .replace(/"/g, "&quot;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
+
 const extractSection = (markdown, heading) => {
   const lines = markdown.split(/\r?\n/);
   const start = lines.findIndex((line) => line.trim() === `## ${heading}`);
@@ -165,7 +172,9 @@ const buildCardsPage = async () => {
     .map((file) => {
       const name = path.basename(file);
       const caption = name.replace(/\.png$/, "").replace(/^\d{4}-\d{2}-\d{2}-/, "");
-      return `<figure><img src="/cards/${name}" alt="${caption}"><figcaption>${caption}</figcaption></figure>`;
+      const imageSrc = `/cards/${escapeHtmlAttribute(name)}`;
+      const imageAlt = escapeHtmlAttribute(caption);
+      return `<figure><button class="card-preview-trigger" type="button" data-card-src="${imageSrc}" data-card-alt="${imageAlt}" aria-label="预览${imageAlt}"><img src="${imageSrc}" alt="${imageAlt}" loading="lazy"></button><figcaption>${imageAlt}</figcaption></figure>`;
     })
     .join("\n");
 

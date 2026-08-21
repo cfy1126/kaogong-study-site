@@ -113,10 +113,51 @@
   background: #fff;
 }
 
+.card-preview-trigger {
+  position: relative;
+  display: block;
+  width: 100%;
+  border: 0;
+  padding: 0;
+  background: transparent;
+  cursor: zoom-in;
+}
+
+.card-preview-trigger::after {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  border-radius: 999px;
+  background: rgb(20 25 32 / 78%);
+  color: #fff;
+  content: "点击预览";
+  font-size: 12px;
+  line-height: 1;
+  opacity: 0;
+  padding: 7px 9px;
+  transition: opacity 0.18s ease;
+}
+
+.card-preview-trigger:hover::after,
+.card-preview-trigger:focus-visible::after {
+  opacity: 1;
+}
+
+.card-preview-trigger:focus-visible {
+  outline: 3px solid var(--vp-c-brand-1);
+  outline-offset: -3px;
+}
+
 .card-gallery img {
+  display: block;
   width: 100%;
   aspect-ratio: 4 / 3;
   object-fit: cover;
+  transition: transform 0.18s ease;
+}
+
+.card-preview-trigger:hover img {
+  transform: scale(1.02);
 }
 
 .card-gallery figcaption {
@@ -125,10 +166,82 @@
   font-size: 13px;
 }
 
+body.card-preview-open {
+  overflow: hidden;
+}
+
+.card-preview[hidden] {
+  display: none;
+}
+
+.card-preview {
+  position: fixed;
+  z-index: 1000;
+  inset: 0;
+  display: grid;
+  place-items: center;
+  padding: 24px;
+  background: rgb(10 14 20 / 88%);
+}
+
+.card-preview__dialog {
+  position: relative;
+  display: flex;
+  width: min(1200px, 100%);
+  max-height: 100%;
+  align-items: center;
+  flex-direction: column;
+  outline: none;
+}
+
+.card-preview__image {
+  max-width: 100%;
+  max-height: calc(100vh - 112px);
+  border-radius: 8px;
+  object-fit: contain;
+  box-shadow: 0 20px 60px rgb(0 0 0 / 35%);
+}
+
+.card-preview__title {
+  margin: 10px 56px 0;
+  color: #fff;
+  font-size: 14px;
+  text-align: center;
+}
+
+.card-preview__close {
+  position: absolute;
+  z-index: 1;
+  top: 10px;
+  right: 10px;
+  min-width: 44px;
+  min-height: 44px;
+  border: 1px solid rgb(255 255 255 / 48%);
+  border-radius: 999px;
+  background: rgb(20 25 32 / 82%);
+  color: #fff;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.card-preview__close:hover,
+.card-preview__close:focus-visible {
+  background: #fff;
+  color: #1f2937;
+}
+
 @media (max-width: 900px) {
   .home-grid,
   .study-panels,
   .card-gallery {
     grid-template-columns: 1fr;
+  }
+
+  .card-preview {
+    padding: 12px;
+  }
+
+  .card-preview__image {
+    max-height: calc(100vh - 88px);
   }
 }
