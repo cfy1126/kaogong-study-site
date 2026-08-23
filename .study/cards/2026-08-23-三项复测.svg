@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1254" height="1254" viewBox="0 0 1254 1254">
+  <rect width="1254" height="1254" fill="#F3F1EC"/>
+  <rect x="48" y="48" width="1158" height="1158" rx="42" fill="#FFFDF9" stroke="#D8D8D1" stroke-width="2"/>
+
+  <text x="96" y="122" fill="#64706B" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="29" font-weight="600" letter-spacing="2">2026.08.23 · 延迟复测</text>
+  <text x="96" y="212" fill="#233630" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="68" font-weight="700">三项复测结论</text>
+  <text x="96" y="263" fill="#72807A" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="28">全对不等于全掌握，还要检查解题入口</text>
+  <line x1="96" y1="302" x2="1158" y2="302" stroke="#D8D8D1" stroke-width="2"/>
+
+  <rect x="88" y="342" width="1078" height="210" rx="28" fill="#EEF4F1" stroke="#CADDD4" stroke-width="2"/>
+  <rect x="118" y="374" width="168" height="48" rx="24" fill="#DCEBE4"/>
+  <text x="202" y="407" text-anchor="middle" fill="#2D6A57" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="700">已掌握</text>
+  <text x="322" y="411" fill="#285F4E" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="38" font-weight="700">协调 / 共享</text>
+  <text x="1120" y="410" text-anchor="end" fill="#4E786A" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="28">4/4 · 80秒</text>
+  <text x="118" y="486" fill="#30433D" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="31">协调看平衡，共享看公平</text>
+  <text x="1120" y="486" text-anchor="end" fill="#66736E" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="25">旧错未重复 · 入口独立</text>
+
+  <rect x="88" y="578" width="1078" height="210" rx="28" fill="#EEF1F4" stroke="#D1D7DD" stroke-width="2"/>
+  <rect x="118" y="610" width="168" height="48" rx="24" fill="#DFE8ED"/>
+  <text x="202" y="643" text-anchor="middle" fill="#3B6072" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="700">已掌握</text>
+  <text x="322" y="647" fill="#3B5360" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="38" font-weight="700">逻辑填空</text>
+  <text x="1120" y="646" text-anchor="end" fill="#607986" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="28">6/6 · 120秒</text>
+  <text x="118" y="722" fill="#31444D" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="31">先语境，后词义搭配；多空逐空核对</text>
+  <text x="1120" y="722" text-anchor="end" fill="#667780" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="25">正确率与入口均稳定</text>
+
+  <rect x="88" y="814" width="1078" height="238" rx="28" fill="#F8F2E8" stroke="#E5D5B9" stroke-width="2"/>
+  <rect x="118" y="846" width="192" height="48" rx="24" fill="#F0E4CF"/>
+  <text x="214" y="879" text-anchor="middle" fill="#855F2F" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="700">需要二刷</text>
+  <text x="346" y="883" fill="#855F2F" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="38" font-weight="700">真假推理</text>
+  <text x="1120" y="882" text-anchor="end" fill="#8C704C" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="28">6/6 · 200秒</text>
+  <text x="118" y="956" fill="#4D4336" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="31">可能：一个合法分支</text>
+  <text x="118" y="1002" fill="#4D4336" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="31">一定：全部合法分支的共同结论</text>
+  <text x="1120" y="1000" text-anchor="end" fill="#9A5B43" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="600">入口再次说反</text>
+
+  <rect x="88" y="1080" width="1078" height="83" rx="22" fill="#F3EEE5" stroke="#DFD4C2" stroke-width="2"/>
+  <text x="126" y="1132" fill="#7E5B34" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="27" font-weight="700">下次：8月26—30日再测6题，答题前先复述入口</text>
+</svg>

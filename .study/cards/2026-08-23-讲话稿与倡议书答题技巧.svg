@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1254" height="1254" viewBox="0 0 1254 1254">
+  <rect width="1254" height="1254" fill="#F3F1EC"/>
+  <rect x="48" y="48" width="1158" height="1158" rx="42" fill="#FFFDF9" stroke="#D8D8D1" stroke-width="2"/>
+
+  <text x="96" y="118" fill="#64706B" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="29" font-weight="600" letter-spacing="2">申论 · 贯彻执行</text>
+  <text x="96" y="210" fill="#233630" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="68" font-weight="700">讲话稿 vs 倡议书</text>
+  <text x="96" y="260" fill="#72807A" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="28">同一份材料，任务和格式不同</text>
+  <rect x="956" y="93" width="198" height="58" rx="29" fill="#E8F0EC"/>
+  <text x="1055" y="132" text-anchor="middle" fill="#2D6A57" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="26" font-weight="700">格式对比</text>
+
+  <line x1="96" y1="302" x2="1158" y2="302" stroke="#D8D8D1" stroke-width="2"/>
+
+  <rect x="88" y="340" width="524" height="478" rx="28" fill="#EEF4F1" stroke="#C9DCD3" stroke-width="2"/>
+  <rect x="88" y="340" width="524" height="104" rx="28" fill="#DCEBE4"/>
+  <rect x="88" y="416" width="524" height="28" fill="#DCEBE4"/>
+  <text x="126" y="401" fill="#285F4E" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="46" font-weight="700">讲话稿</text>
+  <text x="574" y="400" text-anchor="end" fill="#4E786A" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="25">现场说 · 讲清工作</text>
+
+  <text x="126" y="496" fill="#285F4E" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="29" font-weight="700">格式</text>
+  <text x="126" y="545" fill="#30433D" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="29">标题 → 称谓 → 开场</text>
+  <text x="126" y="589" fill="#30433D" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="29">分条主体 → 结尾</text>
+  <rect x="126" y="620" width="323" height="47" rx="14" fill="#FFFDF9"/>
+  <text x="145" y="653" fill="#9A5B43" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="600">通常不写落款、日期</text>
+
+  <text x="126" y="717" fill="#285F4E" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="29" font-weight="700">常用句</text>
+  <text x="126" y="759" fill="#30433D" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="26">“下面说明几点要求”</text>
+  <text x="126" y="796" fill="#66736E" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="24">“希望大家……谢谢大家”</text>
+
+  <rect x="642" y="340" width="524" height="478" rx="28" fill="#F8F2E8" stroke="#E5D5B9" stroke-width="2"/>
+  <rect x="642" y="340" width="524" height="104" rx="28" fill="#F0E4CF"/>
+  <rect x="642" y="416" width="524" height="28" fill="#F0E4CF"/>
+  <text x="680" y="401" fill="#855F2F" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="46" font-weight="700">倡议书</text>
+  <text x="1128" y="400" text-anchor="end" fill="#8C704C" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="25">书面发 · 号召行动</text>
+
+  <text x="680" y="496" fill="#855F2F" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="29" font-weight="700">格式</text>
+  <text x="680" y="545" fill="#4D4336" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="29">标题 → 称谓 → 开头</text>
+  <text x="680" y="589" fill="#4D4336" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="29">分条行动 → 号召</text>
+  <rect x="680" y="620" width="264" height="47" rx="14" fill="#FFFDF9"/>
+  <text x="699" y="653" fill="#855F2F" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="600">落款 → 日期</text>
+
+  <text x="680" y="717" fill="#855F2F" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="29" font-weight="700">常用句</text>
+  <text x="680" y="759" fill="#4D4336" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="26">“现发出如下倡议”</text>
+  <text x="680" y="796" fill="#746957" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="24">“请大家从自身做起”</text>
+
+  <rect x="88" y="850" width="1078" height="196" rx="28" fill="#EEF1F4" stroke="#D1D7DD" stroke-width="2"/>
+  <text x="126" y="907" fill="#3B5360" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="31" font-weight="700">共同答题动作</text>
+  <text x="126" y="958" fill="#31444D" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="29">审题：谁写 ｜ 对谁 ｜ 为什么 ｜ 写什么</text>
+  <text x="126" y="1005" fill="#667780" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="27">表达：主体 ＋ 动作 ＋ 对象或内容</text>
+
+  <rect x="88" y="1072" width="1078" height="91" rx="22" fill="#F3EEE5" stroke="#DFD4C2" stroke-width="2"/>
+  <text x="126" y="1110" fill="#7E5B34" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="26" font-weight="700">题干优先：“不考虑格式”＝只写正文</text>
+  <text x="126" y="1146" fill="#6C6255" font-family="PingFang SC, Hiragino Sans GB, Noto Sans CJK SC, sans-serif" font-size="23">考前15秒：讲话稿别写落款日期；倡议书检查落款日期</text>
+</svg>

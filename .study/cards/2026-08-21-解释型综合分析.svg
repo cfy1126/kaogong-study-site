@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1254" height="1254" viewBox="0 0 1254 1254">
+  <rect width="1254" height="1254" fill="#F3F4F1"/>
+  <rect x="54" y="54" width="1146" height="1146" rx="38" fill="#FFFEFB" stroke="#D5D9D3" stroke-width="2"/>
+
+  <text x="102" y="125" fill="#68716C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30" font-weight="600" letter-spacing="2">申论 · 解释型综合分析</text>
+  <text x="102" y="248" fill="#253630" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="108" font-weight="700">6 / 6</text>
+  <text x="800" y="226" fill="#2D725C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="60" font-weight="700">选择全对</text>
+  <text x="800" y="275" fill="#68716C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="28">用时3分钟</text>
+
+  <rect x="102" y="315" width="1050" height="96" rx="20" fill="#EAF3EF"/>
+  <text x="142" y="377" fill="#2D725C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="34" font-weight="600">状态：已理解　·　首次学习</text>
+
+  <text x="102" y="500" fill="#253630" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="38" font-weight="700">答题入口</text>
+  <rect x="102" y="541" width="1050" height="150" rx="24" fill="#EEF1F5" stroke="#CFD6DF" stroke-width="2"/>
+  <text x="627" y="608" text-anchor="middle" fill="#405363" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="38" font-weight="700">直译含义 → 回到材料 → 逐项核对</text>
+  <text x="627" y="660" text-anchor="middle" fill="#68716C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">问题、做法、结果：材料有什么写什么</text>
+
+  <rect x="102" y="730" width="500" height="210" rx="24" fill="#EAF3EF" stroke="#C7DDD4" stroke-width="2"/>
+  <text x="145" y="801" fill="#2D725C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="36" font-weight="700">常用句式</text>
+  <text x="145" y="863" fill="#405A50" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30">不能只……</text>
+  <text x="145" y="908" fill="#68716C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">还要……</text>
+
+  <rect x="652" y="730" width="500" height="210" rx="24" fill="#F7F0E4" stroke="#E5D6BC" stroke-width="2"/>
+  <text x="695" y="801" fill="#8A6337" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="36" font-weight="700">本次易错</text>
+  <text x="695" y="863" fill="#51483D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30">写到两项就停</text>
+  <text x="695" y="908" fill="#756858" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">漏掉“车位管理”</text>
+
+  <line x1="102" y1="1002" x2="1152" y2="1002" stroke="#D5D9D3" stroke-width="2"/>
+  <text x="102" y="1072" fill="#253630" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="34" font-weight="700">下次：8月24—28日，5分钟短材料复测</text>
+  <text x="102" y="1122" fill="#68716C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="28">含义准确 · 要点齐全 · 不加材料外内容</text>
+</svg>
