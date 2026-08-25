@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1254" height="1254" viewBox="0 0 1254 1254">
+  <rect width="1254" height="1254" fill="#F2F4F1"/>
+  <rect x="54" y="54" width="1146" height="1146" rx="38" fill="#FFFEFB" stroke="#D5D9D3" stroke-width="2"/>
+
+  <text x="102" y="126" fill="#6B736F" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30" font-weight="600" letter-spacing="2">2026-08-25 · 延迟复测</text>
+  <text x="102" y="226" fill="#253630" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="68" font-weight="700">两项掌握，两项待稳</text>
+
+  <rect x="102" y="278" width="500" height="246" rx="24" fill="#E9F3EE" stroke="#C7DDD3" stroke-width="2"/>
+  <text x="142" y="334" fill="#2D725C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="32" font-weight="700">工程问题　已掌握</text>
+  <text x="142" y="388" fill="#405A50" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="28">5 / 6 · 5 分钟</text>
+  <text x="142" y="438" fill="#405A50" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="28">工作量 = 效率 × 时间</text>
+  <text x="142" y="484" fill="#68716C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25">问“增加” → 总人数减原人数</text>
+
+  <rect x="652" y="278" width="500" height="246" rx="24" fill="#E9F3EE" stroke="#C7DDD3" stroke-width="2"/>
+  <text x="692" y="334" fill="#2D725C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="32" font-weight="700">利润问题　已掌握</text>
+  <text x="692" y="388" fill="#405A50" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="28">6 / 6 · 5 分钟</text>
+  <text x="692" y="438" fill="#405A50" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="28">利润率 = 利润 ÷ 成本</text>
+  <text x="692" y="484" fill="#68716C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25">折扣题先求实际售价</text>
+
+  <rect x="102" y="558" width="1050" height="224" rx="24" fill="#FFF5E7" stroke="#E8D5B4" stroke-width="2"/>
+  <text x="142" y="616" fill="#946625" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="32" font-weight="700">政府工作报告　易错</text>
+  <text x="142" y="670" fill="#5F5140" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="28">经济 4.5%—5%　·　就业 5.5%左右 / 1200万人以上</text>
+  <text x="142" y="718" fill="#5F5140" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="28">物价 2%左右 / 收入同步　·　粮食 1.4万亿斤左右 / 降碳 3.8%左右</text>
+  <text x="142" y="758" fill="#8A765B" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24">别漏：左右、以上、斤</text>
+
+  <rect x="102" y="816" width="1050" height="208" rx="24" fill="#EEF1F5" stroke="#CFD6DF" stroke-width="2"/>
+  <text x="142" y="874" fill="#405363" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="32" font-weight="700">解释词句　已理解</text>
+  <text x="142" y="928" fill="#4F606D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="28">先写含义 → 对应问题与做法 → 补结果</text>
+  <text x="142" y="976" fill="#6C7780" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25">100 字内 · 查漏点 · 查笔误</text>
+
+  <line x1="102" y1="1064" x2="1152" y2="1064" stroke="#D5D9D3" stroke-width="2"/>
+  <text x="102" y="1122" fill="#253630" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30" font-weight="700">下次：8月28日—9月1日，复测政府报告与解释词句</text>
+  <text x="102" y="1162" fill="#68716C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24">完整回忆 · 5分钟短答 · 严格限字</text>
+</svg>

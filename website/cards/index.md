@@ -66,4 +66,6 @@
 <figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-08-21-中国式现代化复测.png" data-card-alt="中国式现代化复测" aria-label="预览中国式现代化复测"><img src="/cards/2026-08-21-中国式现代化复测.png" alt="中国式现代化复测" loading="lazy"></button><figcaption>中国式现代化复测</figcaption></figure>
 <figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-08-23-讲话稿与倡议书答题技巧.png" data-card-alt="讲话稿与倡议书答题技巧" aria-label="预览讲话稿与倡议书答题技巧"><img src="/cards/2026-08-23-讲话稿与倡议书答题技巧.png" alt="讲话稿与倡议书答题技巧" loading="lazy"></button><figcaption>讲话稿与倡议书答题技巧</figcaption></figure>
 <figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-08-23-三项复测.png" data-card-alt="三项复测" aria-label="预览三项复测"><img src="/cards/2026-08-23-三项复测.png" alt="三项复测" loading="lazy"></button><figcaption>三项复测</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-08-25-变化类归纳概括.png" data-card-alt="变化类归纳概括" aria-label="预览变化类归纳概括"><img src="/cards/2026-08-25-变化类归纳概括.png" alt="变化类归纳概括" loading="lazy"></button><figcaption>变化类归纳概括</figcaption></figure>
+<figure><button class="card-preview-trigger" type="button" data-card-src="/cards/2026-08-25-四项复测.png" data-card-alt="四项复测" aria-label="预览四项复测"><img src="/cards/2026-08-25-四项复测.png" alt="四项复测" loading="lazy"></button><figcaption>四项复测</figcaption></figure>
 </div>

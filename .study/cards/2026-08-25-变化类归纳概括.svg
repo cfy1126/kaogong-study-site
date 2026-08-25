@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1254" height="1254" viewBox="0 0 1254 1254">
+  <rect width="1254" height="1254" fill="#F3F4F1"/>
+  <rect x="54" y="54" width="1146" height="1146" rx="38" fill="#FFFEFB" stroke="#D5D9D3" stroke-width="2"/>
+
+  <text x="102" y="126" fill="#68716C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30" font-weight="600" letter-spacing="2">申论 · 变化类归纳概括</text>
+  <text x="102" y="234" fill="#253630" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="72" font-weight="700">先数点，再写变化</text>
+
+  <rect x="102" y="282" width="1050" height="82" rx="20" fill="#EAF3EF"/>
+  <text x="142" y="336" fill="#2D725C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="32" font-weight="600">状态：已理解　·　整题 20 分钟　·　初稿漏 1 点</text>
+
+  <text x="102" y="440" fill="#253630" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="38" font-weight="700">四步答题动作</text>
+
+  <rect x="102" y="480" width="500" height="130" rx="22" fill="#EEF1F5" stroke="#CFD6DF" stroke-width="2"/>
+  <text x="142" y="532" fill="#405363" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30" font-weight="700">1　按题干列点数</text>
+  <text x="142" y="578" fill="#68716C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="26">“四个台阶”先写 1—4</text>
+
+  <rect x="652" y="480" width="500" height="130" rx="22" fill="#EEF1F5" stroke="#CFD6DF" stroke-width="2"/>
+  <text x="692" y="532" fill="#405363" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30" font-weight="700">2　逐段找前 → 后</text>
+  <text x="692" y="578" fill="#68716C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="26">先写清真正的变化</text>
+
+  <rect x="102" y="640" width="500" height="130" rx="22" fill="#EEF1F5" stroke="#CFD6DF" stroke-width="2"/>
+  <text x="142" y="692" fill="#405363" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30" font-weight="700">3　归并具体措施</text>
+  <text x="142" y="738" fill="#68716C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="26">同类动作放在“通过”后</text>
+
+  <rect x="652" y="640" width="500" height="130" rx="22" fill="#EEF1F5" stroke="#CFD6DF" stroke-width="2"/>
+  <text x="692" y="692" fill="#405363" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30" font-weight="700">4　数点、查串位</text>
+  <text x="692" y="738" fill="#68716C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="26">变化、措施、结果逐项对应</text>
+
+  <rect x="102" y="818" width="1050" height="142" rx="24" fill="#EAF3EF" stroke="#C7DDD4" stroke-width="2"/>
+  <text x="142" y="872" fill="#2D725C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="32" font-weight="700">常用句式</text>
+  <text x="142" y="928" fill="#405A50" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29">由……变为……；通过……，推动 / 实现……</text>
+
+  <line x1="102" y1="1008" x2="1152" y2="1008" stroke="#D5D9D3" stroke-width="2"/>
+  <text x="102" y="1072" fill="#253630" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="32" font-weight="700">下次：8月28日—9月1日，新材料 8 分钟独立复测</text>
+  <text x="102" y="1122" fill="#68716C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">点数对应 · 结果不串位 · 限字内写完</text>
+</svg>
