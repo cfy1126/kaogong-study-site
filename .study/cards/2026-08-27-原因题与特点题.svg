@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1254" height="1254" viewBox="0 0 1254 1254">
+  <rect width="1254" height="1254" fill="#F3F4F1"/>
+  <rect x="54" y="54" width="1146" height="1146" rx="38" fill="#FFFEFB" stroke="#D7DAD4" stroke-width="2"/>
+
+  <text x="102" y="126" fill="#6B736F" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30" font-weight="600" letter-spacing="2">2026-08-27 · 归纳概括</text>
+  <text x="102" y="222" fill="#253630" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="66" font-weight="700">原因题 × 特点题</text>
+
+  <rect x="102" y="274" width="1050" height="302" rx="28" fill="#EAF3EE" stroke="#C9DDD3" stroke-width="2"/>
+  <text x="142" y="338" fill="#2D725C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="34" font-weight="700">原因题｜为什么能做到</text>
+  <text x="142" y="408" fill="#405A50" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30" font-weight="600">筛原因 → 排成果 → 同类合并 → 限字检查</text>
+  <line x1="142" y1="450" x2="1112" y2="450" stroke="#C9DDD3" stroke-width="2"/>
+  <text x="142" y="508" fill="#66716B" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">句式：原因标签 + 具体做法或条件</text>
+  <text x="142" y="550" fill="#66716B" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25">易错：把取得的成果直接当成原因</text>
+
+  <rect x="102" y="612" width="1050" height="302" rx="28" fill="#EEF1F5" stroke="#CFD7DF" stroke-width="2"/>
+  <text x="142" y="676" fill="#405363" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="34" font-weight="700">特点题｜有什么鲜明之处</text>
+  <text x="142" y="746" fill="#4F606D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30" font-weight="600">找属性 → 提标签 → 标签 + 材料依据</text>
+  <line x1="142" y1="788" x2="1112" y2="788" stroke="#CFD7DF" stroke-width="2"/>
+  <text x="142" y="846" fill="#69757D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">角度：设计、方式、功能、效果</text>
+  <text x="142" y="888" fill="#69757D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25">易错：先写答案再数点，容易漏掉一整点</text>
+
+  <rect x="102" y="954" width="1050" height="150" rx="24" fill="#FFF4E3" stroke="#E8D5B4" stroke-width="2"/>
+  <text x="142" y="1010" fill="#946625" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="28" font-weight="700">最后 15 秒</text>
+  <text x="142" y="1060" fill="#6F5A3D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">数点数 · 查漏点 · 查错字 · 查字数</text>
+
+  <text x="102" y="1160" fill="#7A817D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="23">当前：原因题会做但慢｜特点题已理解｜8月30日—9月3日无提示复测</text>
+</svg>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1254" height="1254" viewBox="0 0 1254 1254">
+  <rect width="1254" height="1254" fill="#F2F4F1"/>
+  <rect x="54" y="54" width="1146" height="1146" rx="38" fill="#FFFEFB" stroke="#D5D9D3" stroke-width="2"/>
+
+  <text x="102" y="126" fill="#6B736F" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30" font-weight="600" letter-spacing="2">2026-08-26 · 二刷纠偏</text>
+  <text x="102" y="226" fill="#253630" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="68" font-weight="700">先分清，再写完整</text>
+
+  <rect x="102" y="278" width="1050" height="326" rx="28" fill="#E9F3EE" stroke="#C7DDD3" stroke-width="2"/>
+  <text x="142" y="340" fill="#2D725C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="34" font-weight="700">真假推理｜可能与一定</text>
+  <text x="142" y="408" fill="#405A50" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31" font-weight="600">可能：找到 1 个合法分支即可</text>
+  <text x="142" y="466" fill="#405A50" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31" font-weight="600">一定：列全合法分支，取共同结论</text>
+  <line x1="142" y1="506" x2="1112" y2="506" stroke="#C7DDD3" stroke-width="2"/>
+  <text x="142" y="558" fill="#68716C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="26">易错：“所有分支成立”不等于“共同结论”</text>
+
+  <rect x="102" y="642" width="1050" height="326" rx="28" fill="#EEF1F5" stroke="#CFD6DF" stroke-width="2"/>
+  <text x="142" y="704" fill="#405363" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="34" font-weight="700">讲话稿｜完整格式</text>
+  <text x="142" y="772" fill="#4F606D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30" font-weight="600">标题 → 称谓：→ 开场 → 分条主体 → 结尾</text>
+  <text x="142" y="832" fill="#4F606D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29">标题要体现“讲话”，不能只写会议名称</text>
+  <line x1="142" y1="872" x2="1112" y2="872" stroke="#CFD6DF" stroke-width="2"/>
+  <text x="142" y="924" fill="#6C7780" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="26">最后留 15 秒：查标题、冒号、漏项、笔误</text>
+
+  <rect x="102" y="1010" width="1050" height="116" rx="22" fill="#FFF5E7" stroke="#E8D5B4" stroke-width="2"/>
+  <text x="142" y="1060" fill="#946625" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="28" font-weight="700">当前：两项仍需二刷</text>
+  <text x="142" y="1104" fill="#6F5A3D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25">8月29—30日换题，一次性独立完成</text>
+
+  <text x="102" y="1170" fill="#7A817D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="22">记忆卡片只做复习提示，完整记录以 Markdown 为准</text>
+</svg>
