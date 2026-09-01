@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1254" height="1254" viewBox="0 0 1254 1254">
+  <rect width="1254" height="1254" fill="#F3F4F1"/>
+  <rect x="54" y="54" width="1146" height="1146" rx="38" fill="#FFFEFB" stroke="#D7DAD4" stroke-width="2"/>
+
+  <text x="102" y="126" fill="#6B736F" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30" font-weight="600" letter-spacing="2">2026-08-29 · 资料分析</text>
+  <text x="102" y="218" fill="#253630" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="58" font-weight="700">平均数延迟复测｜已掌握</text>
+
+  <rect x="102" y="264" width="1050" height="164" rx="28" fill="#EAF3EE" stroke="#C9DDD3" stroke-width="2"/>
+  <text x="142" y="326" fill="#2D725C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="32" font-weight="700">统一入口</text>
+  <text x="142" y="386" fill="#405A50" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="38" font-weight="700">平均数 ＝ 总量 ÷ 份数</text>
+
+  <rect x="102" y="458" width="1050" height="250" rx="28" fill="#EEF1F5" stroke="#CFD7DF" stroke-width="2"/>
+  <text x="142" y="520" fill="#405363" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="32" font-weight="700">先判升降</text>
+  <text x="142" y="580" fill="#4F606D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30">总量增速 ＞ 份数增速　平均数上升</text>
+  <text x="142" y="634" fill="#4F606D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30">总量增速 ＜ 份数增速　平均数下降</text>
+  <text x="142" y="680" fill="#78838B" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24">相等时，平均数不变</text>
+
+  <rect x="102" y="738" width="1050" height="228" rx="28" fill="#FFF4E3" stroke="#E8D5B4" stroke-width="2"/>
+  <text x="142" y="800" fill="#946625" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="32" font-weight="700">需要精算时</text>
+  <text x="142" y="862" fill="#75552D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30">增长率 ＝ (1＋总量增速) ÷ (1＋份数增速)－1</text>
+  <text x="142" y="922" fill="#7A664A" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">基期平均数：分别还原基期总量、基期份数，再相除</text>
+
+  <rect x="102" y="996" width="1050" height="112" rx="24" fill="#F5F0E8"/>
+  <text x="142" y="1043" fill="#6C5A3D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27" font-weight="700">本次：4/4 · 185秒 · 入口独立 · 旧错未重复</text>
+  <text x="142" y="1083" fill="#82745D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="23">下次：第二次资料分析 20 题整组限时</text>
+
+  <text x="102" y="1155" fill="#7A817D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="22">做题顺序：认清总量和份数 → 先判方向 → 必要时精算</text>
+</svg>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1254" height="1254" viewBox="0 0 1254 1254">
+  <rect width="1254" height="1254" fill="#F3F4F1"/>
+  <rect x="54" y="54" width="1146" height="1146" rx="38" fill="#FFFEFB" stroke="#D7DAD4" stroke-width="2"/>
+
+  <text x="102" y="126" fill="#6B736F" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30" font-weight="600" letter-spacing="2">2026-08-30 · 数量关系</text>
+  <text x="102" y="218" fill="#253630" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="58" font-weight="700">行程与年龄｜已理解</text>
+
+  <rect x="102" y="270" width="505" height="600" rx="28" fill="#EAF3EE" stroke="#C9DDD3" stroke-width="2"/>
+  <text x="142" y="334" fill="#2D725C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="34" font-weight="700">行程问题</text>
+  <text x="142" y="398" fill="#405A50" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29" font-weight="700">路程 ＝ 速度 × 时间</text>
+  <line x1="142" y1="428" x2="567" y2="428" stroke="#C1D8CC" stroke-width="2"/>
+  <text x="142" y="482" fill="#486158" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">相遇 / 反向：速度相加</text>
+  <text x="142" y="530" fill="#486158" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">追及 / 同向：速度相减</text>
+  <text x="142" y="578" fill="#486158" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">平均速度＝总路程÷总时间</text>
+  <text x="142" y="646" fill="#2D725C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="28" font-weight="700">流水行船</text>
+  <text x="142" y="696" fill="#486158" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="26">顺水＝船速＋水速</text>
+  <text x="142" y="742" fill="#486158" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="26">逆水＝船速－水速</text>
+  <text x="142" y="796" fill="#6B5940" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="700">船速取和的一半</text>
+  <text x="142" y="836" fill="#6B5940" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="700">水速取差的一半</text>
+
+  <rect x="647" y="270" width="505" height="600" rx="28" fill="#EEF1F5" stroke="#CFD7DF" stroke-width="2"/>
+  <text x="687" y="334" fill="#405363" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="34" font-weight="700">年龄问题</text>
+  <text x="687" y="398" fill="#4F606D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29" font-weight="700">年龄差始终不变</text>
+  <line x1="687" y1="428" x2="1112" y2="428" stroke="#CDD5DD" stroke-width="2"/>
+  <text x="687" y="482" fill="#4F606D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">两人年龄和：每年变化 2 岁</text>
+  <text x="687" y="530" fill="#4F606D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">几年后：两个人都 ＋x</text>
+  <text x="687" y="578" fill="#4F606D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">几年前：两个人都 －x</text>
+  <text x="687" y="646" fill="#405363" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="28" font-weight="700">和差反求</text>
+  <text x="687" y="696" fill="#4F606D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25">年长＝（年龄和＋年龄差）÷2</text>
+  <text x="687" y="742" fill="#4F606D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25">年幼＝（年龄和－年龄差）÷2</text>
+  <text x="687" y="806" fill="#6B5940" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="700">倍数题：先给两人同时写</text>
+  <text x="687" y="844" fill="#6B5940" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="700">＋x 或 －x，再列关系</text>
+
+  <rect x="102" y="906" width="1050" height="128" rx="24" fill="#FFF4E3" stroke="#E8D5B4" stroke-width="2"/>
+  <text x="142" y="958" fill="#946625" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="28" font-weight="700">本次易错</text>
+  <text x="142" y="1002" fill="#75552D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25">问水速却算成船速；年龄倍数题只改变一个人的年龄</text>
+
+  <rect x="102" y="1064" width="1050" height="92" rx="22" fill="#F5F0E8"/>
+  <text x="142" y="1104" fill="#6C5A3D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="700">9月2—6日复测：行程 6题 / 6分钟　年龄 5题 / 5分钟</text>
+  <text x="142" y="1138" fill="#82745D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="22">通过线：≥80% · 入口独立 · 两个旧错不重复</text>
+</svg>

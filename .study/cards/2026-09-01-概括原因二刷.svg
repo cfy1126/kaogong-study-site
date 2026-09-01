@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1254" height="1254" viewBox="0 0 1254 1254">
+  <rect width="1254" height="1254" fill="#F3F4F1"/>
+  <rect x="54" y="54" width="1146" height="1146" rx="38" fill="#FFFEFB" stroke="#D7DAD4" stroke-width="2"/>
+
+  <text x="102" y="126" fill="#6B736F" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30" font-weight="600" letter-spacing="2">2026-09-01 · 申论归纳概括</text>
+  <text x="102" y="218" fill="#253630" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="58" font-weight="700">概括原因｜需要二刷</text>
+
+  <rect x="102" y="270" width="1050" height="164" rx="28" fill="#EAF3EE" stroke="#C9DDD3" stroke-width="2"/>
+  <text x="142" y="330" fill="#2D725C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31" font-weight="700">固定入口</text>
+  <text x="142" y="386" fill="#405A50" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31" font-weight="700">筛原因　→　排成果　→　同类合并　→　限字检查</text>
+
+  <rect x="102" y="466" width="505" height="368" rx="28" fill="#EEF1F5" stroke="#CFD7DF" stroke-width="2"/>
+  <text x="142" y="528" fill="#405363" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="32" font-weight="700">每一点怎么写</text>
+  <line x1="142" y1="558" x2="567" y2="558" stroke="#CDD5DD" stroke-width="2"/>
+  <text x="142" y="620" fill="#4F606D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29" font-weight="700">准确标签 ＋ 关键措施</text>
+  <text x="142" y="682" fill="#4F606D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">4 点题：每点约 35 字</text>
+  <text x="142" y="734" fill="#4F606D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">标签不能写成空泛口号</text>
+  <text x="142" y="786" fill="#4F606D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">销量、收入、满意度是成果</text>
+
+  <rect x="647" y="466" width="505" height="368" rx="28" fill="#FFF4E3" stroke="#E8D5B4" stroke-width="2"/>
+  <text x="687" y="528" fill="#946625" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="32" font-weight="700">本次重复错因</text>
+  <line x1="687" y1="558" x2="1112" y2="558" stroke="#E5CFAB" stroke-width="2"/>
+  <text x="687" y="620" fill="#75552D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">独立首稿只写 4 个标签</text>
+  <text x="687" y="672" fill="#75552D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">完整稿 199 字，压缩仍 153 字</text>
+  <text x="687" y="724" fill="#75552D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">用时 13 分 15 秒，超过 6 分钟</text>
+  <text x="687" y="776" fill="#75552D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">漏字、标点、搭配仍需逐字检查</text>
+
+  <rect x="102" y="870" width="1050" height="176" rx="26" fill="#F5F0E8" stroke="#DFD4C4" stroke-width="2"/>
+  <text x="142" y="930" fill="#6C5A3D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30" font-weight="700">最后 15 秒只查 5 项</text>
+  <text x="142" y="990" fill="#77684F" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29">措施是否写全　成果是否混入　是否超字</text>
+  <text x="142" y="1028" fill="#77684F" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29">搭配是否自然　有没有漏字</text>
+
+  <rect x="102" y="1080" width="1050" height="76" rx="22" fill="#E8F0EB"/>
+  <text x="142" y="1128" fill="#365F50" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="700">9月4—8日：新材料 · 4点 · 150字 · 6分钟 · 无提示首稿验收</text>
+</svg>

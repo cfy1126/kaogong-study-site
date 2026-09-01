@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1254" height="1254" viewBox="0 0 1254 1254">
+  <rect width="1254" height="1254" fill="#F3F4F1"/>
+  <rect x="54" y="54" width="1146" height="1146" rx="38" fill="#FFFEFB" stroke="#D7DAD4" stroke-width="2"/>
+
+  <text x="102" y="126" fill="#6B736F" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30" font-weight="600" letter-spacing="2">2026-08-29 · 延迟复测</text>
+  <text x="102" y="218" fill="#253630" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="62" font-weight="700">三项复测｜入口要稳</text>
+
+  <rect x="102" y="264" width="1050" height="232" rx="28" fill="#EAF3EE" stroke="#C9DDD3" stroke-width="2"/>
+  <text x="142" y="326" fill="#2D725C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="34" font-weight="700">高质量发展　已掌握</text>
+  <text x="142" y="388" fill="#405A50" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31" font-weight="600">质量 · 效率 · 结构 · 合理增长</text>
+  <text x="142" y="446" fill="#60736A" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="26">固定表述：全面建设社会主义现代化国家的首要任务</text>
+
+  <rect x="102" y="526" width="1050" height="252" rx="28" fill="#EEF1F5" stroke="#CFD7DF" stroke-width="2"/>
+  <text x="142" y="588" fill="#405363" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="34" font-weight="700">真假推理　已掌握</text>
+  <text x="142" y="650" fill="#4F606D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31" font-weight="600">可能：找到一个合法分支即可</text>
+  <text x="142" y="708" fill="#4F606D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31" font-weight="600">一定：列全合法分支，取共同结论</text>
+  <text x="142" y="750" fill="#78838B" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="23">正式复测 6/6 · 3分20秒</text>
+
+  <rect x="102" y="808" width="1050" height="254" rx="28" fill="#FFF4E3" stroke="#E8D5B4" stroke-width="2"/>
+  <text x="142" y="870" fill="#946625" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="34" font-weight="700">讲话稿　需要二刷</text>
+  <text x="142" y="932" fill="#75552D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29" font-weight="600">标题 → 称谓：→ 开场 → 分点 → 结尾</text>
+  <text x="142" y="990" fill="#7A664A" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">最后 15 秒：标题 · 冒号 · 漏字 · 病句</text>
+  <text x="142" y="1032" fill="#8A785C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="23">提示后订正，不算独立通过</text>
+
+  <text x="102" y="1146" fill="#7A817D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="23">下次：8月30日｜变化类归纳概括 8分钟</text>
+</svg>
