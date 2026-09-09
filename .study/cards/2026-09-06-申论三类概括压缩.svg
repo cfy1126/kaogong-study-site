@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1254" height="1254" viewBox="0 0 1254 1254">
+  <rect width="1254" height="1254" fill="#F3F4F1"/>
+  <rect x="54" y="54" width="1146" height="1146" rx="38" fill="#FFFEFB" stroke="#D7DAD4" stroke-width="2"/>
+
+  <text x="102" y="126" fill="#6B736F" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30" font-weight="600" letter-spacing="2">2026-09-06 · 归纳概括专项</text>
+  <text x="102" y="208" fill="#253630" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="52" font-weight="700">原因 · 特点 · 变化</text>
+  <text x="102" y="250" fill="#68736E" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="26">找点已稳定，下一步把首稿压进字数</text>
+
+  <rect x="102" y="286" width="1050" height="218" rx="28" fill="#EDF5F1" stroke="#C9DDD3" stroke-width="2"/>
+  <text x="142" y="342" fill="#2D725C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="32" font-weight="700">原因｜为什么成功、为什么发生？</text>
+  <text x="142" y="390" fill="#405A50" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">入口：筛原因 → 排成果 → 合并同类</text>
+  <text x="142" y="434" fill="#405A50" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">答案：准确标签 + 关键措施</text>
+  <text x="142" y="478" fill="#405A50" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25">方向：自身能力 / 经营方式 / 技术条件 / 外部支持</text>
+
+  <rect x="102" y="526" width="1050" height="218" rx="28" fill="#EEF2F7" stroke="#CDD7E2" stroke-width="2"/>
+  <text x="142" y="582" fill="#405F79" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="32" font-weight="700">特点｜有哪些鲜明之处？</text>
+  <text x="142" y="630" fill="#50677A" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">入口：先数点，再按角度找</text>
+  <text x="142" y="674" fill="#50677A" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">答案：特点标签 + 关键依据</text>
+  <text x="142" y="718" fill="#50677A" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25">方向：设计 / 运行 / 功能 / 效果</text>
+
+  <rect x="102" y="766" width="1050" height="218" rx="28" fill="#FFF3E5" stroke="#E8D2B2" stroke-width="2"/>
+  <text x="142" y="822" fill="#946625" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="32" font-weight="700">变化｜前后有什么不同？</text>
+  <text x="142" y="870" fill="#75552D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">答案：同一维度的前→后 + 措施 + 结果</text>
+  <text x="142" y="914" fill="#75552D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">检查：前后对应 / 措施不重复 / 结果不串位</text>
+  <text x="142" y="958" fill="#75552D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25">方向：流程 / 阶段 / 方式 / 主体</text>
+
+  <rect x="102" y="1006" width="1050" height="150" rx="28" fill="#E9EFEA" stroke="#CDD8D0" stroke-width="2"/>
+  <text x="142" y="1058" fill="#365F50" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="29" font-weight="700">限字：4 点题，每点约 35 字</text>
+  <text x="142" y="1100" fill="#4A6258" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25">变化写概括，措施写细节，结果写成效；不要重复。</text>
+  <text x="142" y="1138" fill="#4A6258" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="24">下次：全新变化材料 · 7 分钟 · 150 字以内 · 首稿独立</text>
+</svg>

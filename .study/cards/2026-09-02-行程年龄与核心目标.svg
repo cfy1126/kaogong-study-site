@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1254" height="1254" viewBox="0 0 1254 1254">
+  <rect width="1254" height="1254" fill="#F3F4F1"/>
+  <rect x="54" y="54" width="1146" height="1146" rx="38" fill="#FFFEFB" stroke="#D7DAD4" stroke-width="2"/>
+
+  <text x="102" y="126" fill="#6B736F" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30" font-weight="600" letter-spacing="2">2026-09-02 · 延迟复测</text>
+  <text x="102" y="212" fill="#253630" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="54" font-weight="700">行程与年龄｜已掌握</text>
+
+  <rect x="102" y="258" width="505" height="132" rx="26" fill="#EAF3EE" stroke="#C9DDD3" stroke-width="2"/>
+  <text x="142" y="316" fill="#2D725C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30" font-weight="700">行程　5/6 · 180秒</text>
+  <text x="142" y="360" fill="#405A50" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25">船速 / 水速旧错未重复</text>
+
+  <rect x="647" y="258" width="505" height="132" rx="26" fill="#EEF1F5" stroke="#CFD7DF" stroke-width="2"/>
+  <text x="687" y="316" fill="#405363" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="30" font-weight="700">年龄　5/5 · 150秒</text>
+  <text x="687" y="360" fill="#4F606D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25">两个人同步加减年份</text>
+
+  <rect x="102" y="430" width="505" height="394" rx="28" fill="#EDF5F1" stroke="#C9DDD3" stroke-width="2"/>
+  <text x="142" y="492" fill="#2D725C" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="32" font-weight="700">行程四个入口</text>
+  <line x1="142" y1="522" x2="567" y2="522" stroke="#C9DDD3" stroke-width="2"/>
+  <text x="142" y="584" fill="#405A50" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="28">相遇：看速度和</text>
+  <text x="142" y="638" fill="#405A50" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="28">追及：看速度差</text>
+  <text x="142" y="692" fill="#405A50" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="28">平均速度＝总路程 ÷ 总时间</text>
+  <text x="142" y="746" fill="#405A50" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">船速＝（顺＋逆）÷2</text>
+  <text x="142" y="794" fill="#405A50" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">水速＝（顺－逆）÷2</text>
+
+  <rect x="647" y="430" width="505" height="394" rx="28" fill="#F1F3F6" stroke="#CFD7DF" stroke-width="2"/>
+  <text x="687" y="492" fill="#405363" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="32" font-weight="700">年龄三个动作</text>
+  <line x1="687" y1="522" x2="1112" y2="522" stroke="#CDD5DD" stroke-width="2"/>
+  <text x="687" y="584" fill="#4F606D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="28">几年后：两个人都 ＋x</text>
+  <text x="687" y="638" fill="#4F606D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="28">几年前：两个人都 －x</text>
+  <text x="687" y="692" fill="#4F606D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="28">年龄和每年增加 2 岁</text>
+  <text x="687" y="754" fill="#4F606D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="26">年长＝（和＋差）÷2</text>
+  <text x="687" y="800" fill="#4F606D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="26">年幼＝（和－差）÷2</text>
+
+  <rect x="102" y="860" width="1050" height="210" rx="28" fill="#FFF4E3" stroke="#E8D5B4" stroke-width="2"/>
+  <text x="142" y="922" fill="#946625" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="31" font-weight="700">政府工作报告｜仍易错</text>
+  <text x="142" y="976" fill="#75552D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">城镇新增就业：1200万人以上　粮食产量：1.4万亿斤左右</text>
+  <text x="142" y="1026" fill="#75552D" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="27">单位国内生产总值二氧化碳排放：降低3.8%左右</text>
+
+  <rect x="102" y="1100" width="1050" height="66" rx="22" fill="#E8F0EB"/>
+  <text x="142" y="1143" fill="#365F50" font-family="PingFang SC, Noto Sans CJK SC, sans-serif" font-size="25" font-weight="700">9月5—9日：四组目标换顺序 · 无选项 · 首答一次写全</text>
+</svg>
